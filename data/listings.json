@@ -105,7 +105,7 @@
     "locations": [
       "Bengaluru, Karnataka, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "custom",
     "status": "open",
@@ -754,7 +754,7 @@
     "locations": [
       "Bangalore, Karnātaka, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "phenom",
     "status": "open",
@@ -1088,7 +1088,7 @@
       "Bengaluru, India",
       "Hyderabad, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "workday",
     "status": "open",
