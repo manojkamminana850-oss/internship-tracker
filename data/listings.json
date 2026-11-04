@@ -584,6 +584,28 @@
     "url": "https://www.rubrik.com/company/careers/departments/job.8266405?gh_jid=8266405"
   },
   {
+    "category": "product",
+    "closed_at": null,
+    "company": "Rubrik",
+    "company_slug": "rubrik",
+    "date_posted": "2026-11-04",
+    "enrichment": null,
+    "external_id": "8345283",
+    "first_seen": "2026-11-04T10:46:36.017208Z",
+    "id": "greenhouse:rubrik:8345283",
+    "is_remote": false,
+    "last_seen": "2026-11-04",
+    "locations": [
+      "Bangalore"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "greenhouse",
+    "status": "open",
+    "title": "Product Management Intern",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8345283?gh_jid=8345283"
+  },
+  {
     "category": "swe",
     "closed_at": null,
     "company": "Stripe",
@@ -667,7 +689,7 @@
   },
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-04T10:46:36.017208Z",
     "company": "American Express",
     "company_slug": "american-express",
     "date_posted": "2026-10-27",
@@ -688,12 +710,34 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "oracle_hcm",
-    "status": "open",
+    "status": "closed",
     "title": "Apprentice",
     "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26015791"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Adobe",
+    "company_slug": "adobe",
+    "date_posted": "2026-11-04",
+    "enrichment": null,
+    "external_id": "R172424",
+    "first_seen": "2026-11-04T10:46:36.017208Z",
+    "id": "phenom:adobe:R172424",
+    "is_remote": false,
+    "last_seen": "2026-11-04",
+    "locations": [
+      "Bangalore, Karnātaka, India"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "phenom",
+    "status": "open",
+    "title": "2027 Intern - Research Intern",
+    "url": "https://careers.adobe.com/us/en/job/R172424"
   },
   {
     "category": "data_ml",

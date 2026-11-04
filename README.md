@@ -26,7 +26,7 @@ Sorted newest first. **Age** is days since the company posted it (or since we fi
 Term, Batch and Duration show "—" unless the posting states them.
 
 <!-- LISTINGS:START -->
-**35 open internships** across 13 companies · Last updated: 2026-11-04 (IST)
+**36 open internships** across 13 companies · Last updated: 2026-11-04 (IST)
 
 ### Software Engineering (13)
 
@@ -75,10 +75,11 @@ Term, Batch and Duration show "—" unless the posting states them.
 | Qualcomm | Interim Engineering Intern\_2027\_HW<br><sub>🎓 Masters, Bachelors: Electrical Engineering , VLSI , Embedde…</sub> | Bangalore, India; Hyderabad, Telangāna, India | 2027 | — | — | [Apply](https://careers.qualcomm.com/careers/job/446719784824) | 56d |
 | Google | Silicon Engineering Intern, PhD, Summer 2027 | Bengaluru, Karnataka, India; Hyderabad, Telangana, India | Summer 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/109375266236572358) | 58d |
 
-### Product (4)
+### Product (5)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
+| Rubrik | Product Management Intern | Bangalore | — | — | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8345283?gh_jid=8345283) | 0d |
 | Juspay | Product Designer Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=PDE01) | 6d |
 | Google | User Experience Design Intern, Summer 2027, YouTube UX | Bengaluru, Karnataka, India | Summer 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/78252225691820742) | 7d |
 | Microsoft | Product Design INTERN | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556992502) | 55d |
@@ -88,8 +89,8 @@ Term, Batch and Duration show "—" unless the posting states them.
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
+| Adobe | 2027 Intern - Research Intern | Bangalore, Karnātaka, India | 2027 | — | — | [Apply](https://careers.adobe.com/us/en/job/R172424) | 0d |
 | American Express | Apprentice<br><sub>🎓 Bachelor’s degree</sub> | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26015382) | 2d |
-| American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26015791) | 8d |
 | Rubrik | Industrial Trainee<br><sub>🎓 Chartered Accountancy (CA) qualification</sub> | Bangalore | — | — | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8266405?gh_jid=8266405) | 22d |
 | Rubrik | ENG Project/ Program - Intern | Bangalore | — | 2027 | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8166514?gh_jid=8166514) | 59d |
 <!-- LISTINGS:END -->
