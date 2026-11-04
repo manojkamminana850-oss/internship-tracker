@@ -105,7 +105,7 @@
     "locations": [
       "Bengaluru, Karnataka, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "custom",
     "status": "open",
@@ -720,6 +720,28 @@
   {
     "category": "other",
     "closed_at": null,
+    "company": "American Express",
+    "company_slug": "american-express",
+    "date_posted": "2026-11-04",
+    "enrichment": null,
+    "external_id": "26016056",
+    "first_seen": "2026-11-04T18:16:02.072027Z",
+    "id": "oracle_hcm:american-express:26016056",
+    "is_remote": false,
+    "last_seen": "2026-11-04",
+    "locations": [
+      "Gurugram, HR, India"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "oracle_hcm",
+    "status": "open",
+    "title": "Apprentice",
+    "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26016056"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
     "company": "Adobe",
     "company_slug": "adobe",
     "date_posted": "2026-11-04",
@@ -1049,5 +1071,28 @@
     "status": "open",
     "title": "Technical Internship 2027",
     "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/Technical-Internship-2027_R-10066434"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Wells Fargo",
+    "company_slug": "wells-fargo",
+    "date_posted": "2026-11-04",
+    "enrichment": null,
+    "external_id": "R-557386",
+    "first_seen": "2026-11-04T18:16:02.072027Z",
+    "id": "workday:wells-fargo:R-557386",
+    "is_remote": false,
+    "last_seen": "2026-11-04",
+    "locations": [
+      "Bengaluru, India",
+      "Hyderabad, India"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "2027 Technology Program Intern",
+    "url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/XMLNAME-2027-Technology-Program-Intern_R-557386"
   }
 ]

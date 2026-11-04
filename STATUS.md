@@ -10,7 +10,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | AlphaGrep | greenhouse | ✅ OK | 2026-11-04 | 0 |
 | Amazon | custom | ✅ OK | 2026-11-04 | 0 |
 | AMD | custom | ✅ OK | 2026-11-04 | 0 |
-| American Express | oracle_hcm | ✅ OK | 2026-11-04 | 1 |
+| American Express | oracle_hcm | ✅ OK | 2026-11-04 | 2 |
 | Analog Devices | workday | ✅ OK | 2026-11-04 | 0 |
 | Apple | custom | ✅ OK | 2026-11-04 | 2 |
 | Applied Materials | workday | ✅ OK | 2026-11-04 | 0 |
@@ -49,7 +49,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Twilio | greenhouse | ✅ OK | 2026-11-04 | 0 |
 | Uber | oracle_hcm | ✅ OK | 2026-11-04 | 0 |
 | Visa | workday | ✅ OK | 2026-11-04 | 0 |
-| Wells Fargo | workday | ✅ OK | 2026-11-04 | 0 |
+| Wells Fargo | workday | ✅ OK | 2026-11-04 | 1 |
 | Agoda | greenhouse | ✅ OK | 2026-11-04 | 0 |
 | Airbnb | greenhouse | ✅ OK | 2026-11-04 | 0 |
 | Amplitude | ashby | ✅ OK | 2026-11-04 | 0 |
