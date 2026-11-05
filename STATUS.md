@@ -6,7 +6,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
-| Adobe | phenom | ✅ OK | 2026-11-05 | 2 |
+| Adobe | phenom | ✅ OK | 2026-11-05 | 1 |
 | AlphaGrep | greenhouse | ✅ OK | 2026-11-05 | 0 |
 | Amazon | custom | ✅ OK | 2026-11-05 | 0 |
 | AMD | custom | ✅ OK | 2026-11-05 | 0 |
@@ -76,7 +76,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Ixigo | smartrecruiters | ✅ OK | 2026-11-05 | 0 |
 | JFrog | greenhouse | ✅ OK | 2026-11-05 | 0 |
 | Jump Trading | greenhouse | ✅ OK | 2026-11-05 | 0 |
-| Juspay | custom | ✅ OK | 2026-11-05 | 4 |
+| Juspay | custom | ✅ OK | 2026-11-05 | 5 |
 | Kong | ashby | ✅ OK | 2026-11-05 | 0 |
 | LaunchDarkly | greenhouse | ✅ OK | 2026-11-05 | 0 |
 | Meesho | lever | ✅ OK | 2026-11-05 | 0 |

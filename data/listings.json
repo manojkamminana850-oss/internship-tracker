@@ -135,6 +135,28 @@
     "url": "https://www.google.com/about/careers/applications/jobs/results/87534302853505734"
   },
   {
+    "category": "other",
+    "closed_at": null,
+    "company": "Juspay",
+    "company_slug": "juspay",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "B-I01",
+    "first_seen": "2026-11-05T11:37:54.192672Z",
+    "id": "custom:juspay:B-I01",
+    "is_remote": false,
+    "last_seen": "2026-11-05",
+    "locations": [
+      "Bangalore"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "custom",
+    "status": "open",
+    "title": "BD - Intern",
+    "url": "https://joinus.juspay.in/?jobId=B-I01"
+  },
+  {
     "category": "swe",
     "closed_at": null,
     "company": "Juspay",
@@ -741,7 +763,7 @@
   },
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-05T11:37:54.192672Z",
     "company": "Adobe",
     "company_slug": "adobe",
     "date_posted": "2026-11-04",
@@ -754,10 +776,10 @@
     "locations": [
       "Bangalore, Karnātaka, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": false,
     "source": "phenom",
-    "status": "open",
+    "status": "closed",
     "title": "2027 Intern - Research Intern",
     "url": "https://careers.adobe.com/us/en/job/R172424"
   },
@@ -1077,18 +1099,18 @@
     "closed_at": null,
     "company": "Wells Fargo",
     "company_slug": "wells-fargo",
-    "date_posted": "2026-11-04",
+    "date_posted": "2026-11-05",
     "enrichment": null,
     "external_id": "R-557386",
     "first_seen": "2026-11-04T18:16:02.072027Z",
     "id": "workday:wells-fargo:R-557386",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Bengaluru, India",
       "Hyderabad, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 0,
     "notified": false,
     "source": "workday",
     "status": "open",
