@@ -10,7 +10,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:apple:200676908",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Bengaluru, India"
     ],
@@ -32,7 +32,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:apple:200684719",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Hyderabad, India"
     ],
@@ -54,7 +54,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:google:109375266236572358",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Bengaluru, Karnataka, India",
       "Hyderabad, Telangana, India"
@@ -77,7 +77,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:google:109976286780105414",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Bengaluru, Karnataka, India",
       "Hyderabad, Telangana, India",
@@ -92,7 +92,7 @@
   },
   {
     "category": "product",
-    "closed_at": null,
+    "closed_at": "2026-11-05T03:47:22.608448Z",
     "company": "Google",
     "company_slug": "google",
     "date_posted": "2026-10-28",
@@ -105,10 +105,10 @@
     "locations": [
       "Bengaluru, Karnataka, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "custom",
-    "status": "open",
+    "status": "closed",
     "title": "User Experience Design Intern, Summer 2027, YouTube UX",
     "url": "https://www.google.com/about/careers/applications/jobs/results/78252225691820742"
   },
@@ -123,7 +123,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:google:87534302853505734",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Hyderabad, Telangana, India"
     ],
@@ -145,7 +145,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:DEV-BE02",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Bangalore"
     ],
@@ -167,7 +167,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:DEV-BE04",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Mumbai"
     ],
@@ -189,7 +189,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:PDE01",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Bangalore"
     ],
@@ -211,7 +211,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:PSE02",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Bangalore"
     ],
@@ -233,7 +233,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:quadeye:199893000002318371",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Gurgaon, Haryana, India"
     ],
@@ -255,7 +255,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:quadeye:199893000002318430",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Gurgaon, Haryana, India"
     ],
@@ -277,7 +277,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:quadeye:199893000002318440",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Gurgaon, Haryana, India"
     ],
@@ -520,7 +520,7 @@
     "first_seen": "2026-10-27T07:36:29.514766Z",
     "id": "greenhouse:rubrik:8166514",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Bangalore"
     ],
@@ -542,7 +542,7 @@
     "first_seen": "2026-11-03T10:43:39.654780Z",
     "id": "greenhouse:rubrik:8166537",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Bangalore"
     ],
@@ -572,7 +572,7 @@
     "first_seen": "2026-10-27T07:36:29.514766Z",
     "id": "greenhouse:rubrik:8266405",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Bangalore"
     ],
@@ -594,7 +594,7 @@
     "first_seen": "2026-11-04T10:46:36.017208Z",
     "id": "greenhouse:rubrik:8345283",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Bangalore"
     ],
@@ -624,7 +624,7 @@
     "first_seen": "2026-10-27T07:36:29.514766Z",
     "id": "greenhouse:stripe:8031833",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Bengaluru"
     ],
@@ -676,7 +676,7 @@
     "first_seen": "2026-11-02T09:50:42.810244Z",
     "id": "oracle_hcm:american-express:26015382",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Gurugram, HR, India"
     ],
@@ -728,7 +728,7 @@
     "first_seen": "2026-11-04T18:16:02.072027Z",
     "id": "oracle_hcm:american-express:26016056",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Gurugram, HR, India"
     ],
@@ -754,7 +754,7 @@
     "locations": [
       "Bangalore, Karnātaka, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "phenom",
     "status": "open",
@@ -772,7 +772,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "phenom:adobe:R173016",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Bangalore, Karnātaka, India"
     ],
@@ -849,7 +849,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604253",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Hyderabad"
     ],
@@ -879,7 +879,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604254",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Hyderabad"
     ],
@@ -909,7 +909,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604255",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Hyderabad"
     ],
@@ -939,7 +939,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604256",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Hyderabad"
     ],
@@ -969,7 +969,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604257",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Hyderabad"
     ],
@@ -999,7 +999,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "workday:nvidia:JR2024423",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "India, Bengaluru"
     ],
@@ -1029,7 +1029,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:nxp:R-10052538",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Noida",
       "Bangalore"
@@ -1060,7 +1060,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:nxp:R-10066434",
     "is_remote": false,
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-05",
     "locations": [
       "Bangalore",
       "Noida"
@@ -1088,7 +1088,7 @@
       "Bengaluru, India",
       "Hyderabad, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "workday",
     "status": "open",

@@ -2,10 +2,11 @@
 
 Listings that are no longer on the company's career page. [Back to the open internships](README.md).
 
-**4 closed** · Last updated: 2026-11-05 (IST)
+**5 closed** · Last updated: 2026-11-05 (IST)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Posted | Closed |
 |---|---|---|---|---|---|---|---|---|
+| Google | User Experience Design Intern, Summer 2027, YouTube UX | Bengaluru, Karnataka, India | Summer 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/78252225691820742) | 2026-10-28 | 2026-11-05 |
 | American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26015791) | 2026-10-27 | 2026-11-04 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | (do not use) Mumbai Nirlon Know. Pk B4-B5; Pune - Business Bay; Jaipur +1 more | 2026 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/do-not-use-Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice---Non-Technology_R0357981) | 2026-10-28 | 2026-10-31 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Mumbai, Nirlon Knowledge Park | 2026 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Knowledge-Park/Apprentice-Hiring-for-2026--2027_R0456794-1) | 2026-10-29 | 2026-10-31 |
