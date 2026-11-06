@@ -6,7 +6,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
-| Amazon | custom | ⚠️ failing for 2 runs: returned 0 postings (previously 1) | 2026-11-05 | 0 |
+| Amazon | custom | ⚠️ failing for 3 runs: returned 0 postings (previously 1) | 2026-11-05 | 0 |
 | Adobe | phenom | ✅ OK | 2026-11-06 | 1 |
 | AlphaGrep | greenhouse | ✅ OK | 2026-11-06 | 0 |
 | AMD | custom | ✅ OK | 2026-11-06 | 0 |
@@ -30,14 +30,14 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Marvell | workday | ✅ OK | 2026-11-06 | 5 |
 | Mastercard | workday | ✅ OK | 2026-11-06 | 0 |
 | Micron | workday | ✅ OK | 2026-11-06 | 0 |
-| Microsoft | eightfold | ✅ OK | 2026-11-03 | 5 |
+| Microsoft | eightfold | ✅ OK | 2026-11-06 | 5 |
 | Morgan Stanley | eightfold | ✅ OK | 2026-11-06 | 0 |
 | Nvidia | workday | ✅ OK | 2026-11-06 | 1 |
 | NXP | workday | ✅ OK | 2026-11-06 | 2 |
 | Oracle | oracle_hcm | ✅ OK | 2026-11-06 | 0 |
 | PayPal | eightfold | ✅ OK | 2026-11-06 | 0 |
 | Quadeye | custom | ✅ OK | 2026-11-06 | 3 |
-| Qualcomm | eightfold | ✅ OK | 2026-11-03 | 2 |
+| Qualcomm | eightfold | ✅ OK | 2026-11-06 | 2 |
 | Rippling | custom | ✅ OK | 2026-11-06 | 0 |
 | Rubrik | greenhouse | ✅ OK | 2026-11-06 | 4 |
 | Salesforce | workday | ✅ OK | 2026-11-06 | 0 |
