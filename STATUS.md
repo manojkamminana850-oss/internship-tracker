@@ -2,13 +2,14 @@
 
 Live health of every company the tracker watches, refreshed on each run. [Back to the open internships](README.md).
 
-**100 companies tracked** · 99 OK · 1 failing · 12 not tracked · Last updated: 2026-11-06 (IST)
+**100 companies tracked** · 99 OK · 1 failing · 12 not tracked · Last updated: 2026-11-07 (IST)
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
-| Amazon | custom | ⚠️ failing for 4 runs: returned 0 postings (previously 1) | 2026-11-05 | 0 |
+| Marvell | workday | ⚠️ failing for 1 run: FetchError: HTTP 502 from marvell.wd1.myworkdayjobs.com | 2026-11-06 | 5 |
 | Adobe | phenom | ✅ OK | 2026-11-06 | 1 |
 | AlphaGrep | greenhouse | ✅ OK | 2026-11-06 | 0 |
+| Amazon | custom | ✅ OK | 2026-11-06 | 0 |
 | AMD | custom | ✅ OK | 2026-11-06 | 0 |
 | American Express | oracle_hcm | ✅ OK | 2026-11-06 | 2 |
 | Analog Devices | workday | ✅ OK | 2026-11-06 | 0 |
@@ -27,7 +28,6 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Graviton Research Capital | greenhouse | ✅ OK | 2026-11-06 | 0 |
 | Intel | workday | ✅ OK | 2026-11-06 | 0 |
 | JPMorgan Chase | oracle_hcm | ✅ OK | 2026-11-06 | 0 |
-| Marvell | workday | ✅ OK | 2026-11-06 | 5 |
 | Mastercard | workday | ✅ OK | 2026-11-06 | 0 |
 | Micron | workday | ✅ OK | 2026-11-06 | 0 |
 | Microsoft | eightfold | ✅ OK | 2026-11-06 | 5 |
