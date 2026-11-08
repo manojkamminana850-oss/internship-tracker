@@ -2,11 +2,11 @@
 
 Live health of every company the tracker watches, refreshed on each run. [Back to the open internships](README.md).
 
-**100 companies tracked** · 99 OK · 1 failing · 12 not tracked · Last updated: 2026-11-08 (IST)
+**100 companies tracked** · 99 OK · 1 failing · 12 not tracked · Last updated: 2026-11-09 (IST)
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
-| NXP | workday | ⚠️ failing for 5 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
+| NXP | workday | ⚠️ failing for 6 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
 | Adobe | phenom | ✅ OK | 2026-11-08 | 1 |
 | AlphaGrep | greenhouse | ✅ OK | 2026-11-08 | 0 |
 | Amazon | custom | ✅ OK | 2026-11-08 | 0 |
