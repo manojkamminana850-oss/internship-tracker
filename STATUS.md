@@ -6,13 +6,13 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
-| NXP | workday | ⚠️ failing for 3 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
+| NXP | workday | ⚠️ failing for 4 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
 | Adobe | phenom | ✅ OK | 2026-11-08 | 1 |
 | AlphaGrep | greenhouse | ✅ OK | 2026-11-08 | 0 |
 | Amazon | custom | ✅ OK | 2026-11-08 | 0 |
 | AMD | custom | ✅ OK | 2026-11-08 | 0 |
 | American Express | oracle_hcm | ✅ OK | 2026-11-08 | 2 |
-| Analog Devices | workday | ✅ OK | 2026-11-08 | 1 |
+| Analog Devices | workday | ✅ OK | 2026-11-08 | 0 |
 | Apple | custom | ✅ OK | 2026-11-08 | 2 |
 | Applied Materials | workday | ✅ OK | 2026-11-08 | 0 |
 | Atlassian | custom | ✅ OK | 2026-11-08 | 0 |
@@ -31,13 +31,13 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Marvell | workday | ✅ OK | 2026-11-08 | 5 |
 | Mastercard | workday | ✅ OK | 2026-11-08 | 0 |
 | Micron | workday | ✅ OK | 2026-11-08 | 0 |
-| Microsoft | eightfold | ✅ OK | 2026-11-07 | 5 |
+| Microsoft | eightfold | ✅ OK | 2026-11-08 | 5 |
 | Morgan Stanley | eightfold | ✅ OK | 2026-11-08 | 0 |
 | Nvidia | workday | ✅ OK | 2026-11-08 | 1 |
 | Oracle | oracle_hcm | ✅ OK | 2026-11-08 | 0 |
 | PayPal | eightfold | ✅ OK | 2026-11-08 | 0 |
 | Quadeye | custom | ✅ OK | 2026-11-08 | 3 |
-| Qualcomm | eightfold | ✅ OK | 2026-11-07 | 2 |
+| Qualcomm | eightfold | ✅ OK | 2026-11-08 | 2 |
 | Rippling | custom | ✅ OK | 2026-11-08 | 0 |
 | Rubrik | greenhouse | ✅ OK | 2026-11-08 | 4 |
 | Salesforce | workday | ✅ OK | 2026-11-08 | 0 |
@@ -49,7 +49,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Twilio | greenhouse | ✅ OK | 2026-11-08 | 0 |
 | Uber | oracle_hcm | ✅ OK | 2026-11-08 | 0 |
 | Visa | workday | ✅ OK | 2026-11-08 | 0 |
-| Wells Fargo | workday | ✅ OK | 2026-11-08 | 1 |
+| Wells Fargo | workday | ✅ OK | 2026-11-08 | 0 |
 | Agoda | greenhouse | ✅ OK | 2026-11-08 | 0 |
 | Airbnb | greenhouse | ✅ OK | 2026-11-08 | 0 |
 | Amplitude | ashby | ✅ OK | 2026-11-08 | 0 |
