@@ -568,7 +568,7 @@
   },
   {
     "company_slug": "nxp",
-    "consecutive_failures": 4,
+    "consecutive_failures": 5,
     "failure_alerted": false,
     "last_count": 48,
     "last_error": "FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com",
