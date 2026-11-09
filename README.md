@@ -26,12 +26,13 @@ Sorted newest first. **Age** is days since the company posted it (or since we fi
 Term, Batch and Duration show "—" unless the posting states them.
 
 <!-- LISTINGS:START -->
-**36 open internships** across 13 companies · Last updated: 2026-11-09 (IST)
+**37 open internships** across 14 companies · Last updated: 2026-11-09 (IST)
 
-### Software Engineering (13)
+### Software Engineering (14)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
+| PayPal | Software Engineer Intern | Bangalore, Karnataka, India; Chennai, Tamil Nadu, India | — | — | — | [Apply](https://paypal.eightfold.ai/careers/job/274923210258) | 0d |
 | Juspay | Product Solution Engineer Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=PSE02) | 11d |
 | Juspay | Software Development Engineer Backend Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=DEV-BE02) | 11d |
 | Juspay | Software Development Engineer Backend Intern | Mumbai | — | — | — | [Apply](https://joinus.juspay.in/?jobId=DEV-BE04) | 11d |

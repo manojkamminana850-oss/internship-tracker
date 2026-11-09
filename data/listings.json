@@ -461,6 +461,29 @@
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557043380"
   },
   {
+    "category": "swe",
+    "closed_at": null,
+    "company": "PayPal",
+    "company_slug": "paypal",
+    "date_posted": "2026-11-09",
+    "enrichment": null,
+    "external_id": "274923210258",
+    "first_seen": "2026-11-09T09:39:36.194472Z",
+    "id": "eightfold:paypal:274923210258",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "Bangalore, Karnataka, India",
+      "Chennai, Tamil Nadu, India"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "eightfold",
+    "status": "open",
+    "title": "Software Engineer Intern",
+    "url": "https://paypal.eightfold.ai/careers/job/274923210258"
+  },
+  {
     "category": "hardware",
     "closed_at": null,
     "company": "Qualcomm",
