@@ -127,7 +127,7 @@
     "locations": [
       "Hyderabad, Telangana, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "custom",
     "status": "open",
@@ -829,8 +829,30 @@
     "url": "https://careers.adobe.com/us/en/job/R173016"
   },
   {
+    "category": "hardware",
+    "closed_at": null,
+    "company": "Analog Devices",
+    "company_slug": "analog-devices",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "R267594",
+    "first_seen": "2026-11-09T20:11:48.408865Z",
+    "id": "workday:analog-devices:R267594",
+    "is_remote": false,
+    "last_seen": "2026-11-09",
+    "locations": [
+      "India, Bangalore, Nova"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "Analog Design Intern",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Analog-Design-Intern_R267594"
+  },
+  {
     "category": "other",
-    "closed_at": "2026-11-08T07:29:54.553231Z",
+    "closed_at": null,
     "company": "Analog Devices",
     "company_slug": "analog-devices",
     "date_posted": null,
@@ -839,14 +861,14 @@
     "first_seen": "2026-11-07T13:28:40.846159Z",
     "id": "workday:analog-devices:R267676",
     "is_remote": false,
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-09",
     "locations": [
       "India, Bangalore, Nova"
     ],
-    "missed_runs": 3,
+    "missed_runs": 0,
     "notified": false,
     "source": "workday",
-    "status": "closed",
+    "status": "open",
     "title": "Product Application Intern",
     "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Product-Application-Intern_R267676"
   },

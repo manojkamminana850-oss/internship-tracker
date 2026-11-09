@@ -2,11 +2,10 @@
 
 Listings that are no longer on the company's career page. [Back to the open internships](README.md).
 
-**8 closed** · Last updated: 2026-11-09 (IST)
+**7 closed** · Last updated: 2026-11-10 (IST)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Posted | Closed |
 |---|---|---|---|---|---|---|---|---|
-| Analog Devices | Product Application Intern | India, Bangalore, Nova | — | — | — | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Product-Application-Intern_R267676) | 2026-11-07 | 2026-11-08 |
 | Wells Fargo | 2027 Technology Program Intern | Bengaluru, India; Hyderabad, India | 2027 | — | — | [Apply](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/XMLNAME-2027-Technology-Program-Intern_R-557386) | 2026-11-05 | 2026-11-08 |
 | Adobe | 2027 Intern - Research Intern | Bangalore, Karnātaka, India | 2027 | — | — | [Apply](https://careers.adobe.com/us/en/job/R172424) | 2026-11-04 | 2026-11-05 |
 | Google | User Experience Design Intern, Summer 2027, YouTube UX | Bengaluru, Karnataka, India | Summer 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/78252225691820742) | 2026-10-28 | 2026-11-05 |
