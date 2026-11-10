@@ -114,7 +114,7 @@
   },
   {
     "category": "data_ml",
-    "closed_at": null,
+    "closed_at": "2026-11-10T10:30:08.099399Z",
     "company": "Google",
     "company_slug": "google",
     "date_posted": "2026-10-28",
@@ -127,10 +127,10 @@
     "locations": [
       "Hyderabad, Telangana, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "custom",
-    "status": "open",
+    "status": "closed",
     "title": "Research Scientist PhD Intern, Summer 2027",
     "url": "https://www.google.com/about/careers/applications/jobs/results/87534302853505734"
   },
@@ -621,7 +621,7 @@
     "locations": [
       "Bangalore"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "greenhouse",
     "status": "open",
