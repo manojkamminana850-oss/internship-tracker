@@ -2,10 +2,11 @@
 
 Listings that are no longer on the company's career page. [Back to the open internships](README.md).
 
-**8 closed** · Last updated: 2026-11-10 (IST)
+**9 closed** · Last updated: 2026-11-11 (IST)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Posted | Closed |
 |---|---|---|---|---|---|---|---|---|
+| Rubrik | Industrial Trainee<br><sub>🎓 Chartered Accountancy (CA) qualification</sub> | Bangalore | — | — | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8266405?gh_jid=8266405) | 2026-10-13 | 2026-11-11 |
 | Google | Research Scientist PhD Intern, Summer 2027 | Hyderabad, Telangana, India | Summer 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/87534302853505734) | 2026-10-28 | 2026-11-10 |
 | Wells Fargo | 2027 Technology Program Intern | Bengaluru, India; Hyderabad, India | 2027 | — | — | [Apply](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/XMLNAME-2027-Technology-Program-Intern_R-557386) | 2026-11-05 | 2026-11-08 |
 | Adobe | 2027 Intern - Research Intern | Bangalore, Karnātaka, India | 2027 | — | — | [Apply](https://careers.adobe.com/us/en/job/R172424) | 2026-11-04 | 2026-11-05 |

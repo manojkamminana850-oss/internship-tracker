@@ -600,7 +600,7 @@
   },
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-10T23:31:38.585098Z",
     "company": "Rubrik",
     "company_slug": "rubrik",
     "date_posted": "2026-10-13",
@@ -621,10 +621,10 @@
     "locations": [
       "Bangalore"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "greenhouse",
-    "status": "open",
+    "status": "closed",
     "title": "Industrial Trainee",
     "url": "https://www.rubrik.com/company/careers/departments/job.8266405?gh_jid=8266405"
   },
@@ -725,7 +725,7 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "oracle_hcm",
     "status": "open",

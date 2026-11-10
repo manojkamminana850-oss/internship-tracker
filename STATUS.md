@@ -2,15 +2,15 @@
 
 Live health of every company the tracker watches, refreshed on each run. [Back to the open internships](README.md).
 
-**100 companies tracked** · 99 OK · 1 failing · 12 not tracked · Last updated: 2026-11-10 (IST)
+**100 companies tracked** · 98 OK · 2 failing · 12 not tracked · Last updated: 2026-11-11 (IST)
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
-| NXP | workday | ⚠️ failing for 13 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
+| AMD | custom | ⚠️ failing for 1 run: returned only 40 postings (previously 107) | 2026-11-10 | 0 |
+| NXP | workday | ⚠️ failing for 14 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
 | Adobe | phenom | ✅ OK | 2026-11-10 | 1 |
 | AlphaGrep | greenhouse | ✅ OK | 2026-11-10 | 0 |
 | Amazon | custom | ✅ OK | 2026-11-10 | 0 |
-| AMD | custom | ✅ OK | 2026-11-10 | 0 |
 | American Express | oracle_hcm | ✅ OK | 2026-11-10 | 2 |
 | Analog Devices | workday | ✅ OK | 2026-11-10 | 2 |
 | Apple | custom | ✅ OK | 2026-11-10 | 2 |
@@ -39,7 +39,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Quadeye | custom | ✅ OK | 2026-11-10 | 3 |
 | Qualcomm | eightfold | ✅ OK | 2026-11-08 | 2 |
 | Rippling | custom | ✅ OK | 2026-11-10 | 0 |
-| Rubrik | greenhouse | ✅ OK | 2026-11-10 | 4 |
+| Rubrik | greenhouse | ✅ OK | 2026-11-10 | 3 |
 | Salesforce | workday | ✅ OK | 2026-11-10 | 0 |
 | ServiceNow | smartrecruiters | ✅ OK | 2026-11-10 | 0 |
 | Snowflake | ashby | ✅ OK | 2026-11-10 | 0 |
