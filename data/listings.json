@@ -829,6 +829,28 @@
     "url": "https://careers.adobe.com/us/en/job/R173016"
   },
   {
+    "category": "other",
+    "closed_at": null,
+    "company": "Adobe",
+    "company_slug": "adobe",
+    "date_posted": "2026-11-11",
+    "enrichment": null,
+    "external_id": "R173562",
+    "first_seen": "2026-11-11T18:08:35.047532Z",
+    "id": "phenom:adobe:R173562",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Bangalore, Karnātaka, India"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "phenom",
+    "status": "open",
+    "title": "Adobe Intern FY27",
+    "url": "https://careers.adobe.com/us/en/job/R173562"
+  },
+  {
     "category": "hardware",
     "closed_at": null,
     "company": "Analog Devices",
@@ -1270,6 +1292,29 @@
     "status": "open",
     "title": "Technical Internship 2027",
     "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/Technical-Internship-2027_R-10066434"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Salesforce",
+    "company_slug": "salesforce",
+    "date_posted": "2026-11-11",
+    "enrichment": null,
+    "external_id": "JR337715",
+    "first_seen": "2026-11-11T18:08:35.047532Z",
+    "id": "workday:salesforce:JR337715",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "India - Bangalore",
+      "India - Hyderabad"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "Summer 2027 Intern - Software Engineer",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715"
   },
   {
     "category": "swe",

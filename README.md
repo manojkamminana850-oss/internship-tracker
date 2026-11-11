@@ -26,12 +26,13 @@ Sorted newest first. **Age** is days since the company posted it (or since we fi
 Term, Batch and Duration show "—" unless the posting states them.
 
 <!-- LISTINGS:START -->
-**41 open internships** across 16 companies · Last updated: 2026-11-11 (IST)
+**43 open internships** across 17 companies · Last updated: 2026-11-11 (IST)
 
-### Software Engineering (14)
+### Software Engineering (15)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
+| Salesforce | Summer 2027 Intern - Software Engineer | India - Bangalore; India - Hyderabad | Summer 2027 | — | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) | 0d |
 | PayPal | Software Engineer Intern | Bangalore, Karnataka, India; Chennai, Tamil Nadu, India | — | — | — | [Apply](https://paypal.eightfold.ai/careers/job/274923210258) | 2d |
 | Juspay | Product Solution Engineer Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=PSE02) | 13d |
 | Juspay | Software Development Engineer Backend Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=DEV-BE02) | 13d |
@@ -85,10 +86,11 @@ Term, Batch and Duration show "—" unless the posting states them.
 | Microsoft | Product Design INTERN | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556992502) | 62d |
 | Microsoft | Product Management INTERN<br><sub>🎓 Master of Business Administration (MBA)</sub> | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556978896) | 78d |
 
-### Other (9)
+### Other (10)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
+| Adobe | Adobe Intern FY27 | Bangalore, Karnātaka, India | — | — | — | [Apply](https://careers.adobe.com/us/en/job/R173562) | 0d |
 | Deutsche Bank | IGTC Interns 2027 | Pune - Business Bay | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/IGTC-Interns-2027_R0452134) | 0d |
 | Deutsche Bank | IGTC Interns 2027 | Pune - Business Bay | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/IGTC-Interns-2027_R0452193) | 0d |
 | Deutsche Bank | IGTC Interns 2027 | Mumbai, Hazarimal Somani Marg | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Hazarimal-Somani-Marg/IGTC-Interns-2027_R0452271) | 0d |
