@@ -704,7 +704,7 @@
   },
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-11T10:43:38.731558Z",
     "company": "American Express",
     "company_slug": "american-express",
     "date_posted": "2026-11-02",
@@ -725,10 +725,10 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "oracle_hcm",
-    "status": "open",
+    "status": "closed",
     "title": "Apprentice",
     "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26015382"
   },
@@ -896,6 +896,116 @@
     "status": "closed",
     "title": "Apprentice Hiring for 2026- 2027",
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/do-not-use-Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice---Non-Technology_R0357981"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Deutsche Bank",
+    "company_slug": "deutsche-bank",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "R0452134",
+    "first_seen": "2026-11-11T10:43:38.731558Z",
+    "id": "workday:deutsche-bank:R0452134",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Pune - Business Bay"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "IGTC Interns 2027",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/IGTC-Interns-2027_R0452134"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Deutsche Bank",
+    "company_slug": "deutsche-bank",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "R0452193",
+    "first_seen": "2026-11-11T10:43:38.731558Z",
+    "id": "workday:deutsche-bank:R0452193",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Pune - Business Bay"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "IGTC Interns 2027",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/IGTC-Interns-2027_R0452193"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Deutsche Bank",
+    "company_slug": "deutsche-bank",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "R0452271",
+    "first_seen": "2026-11-11T10:43:38.731558Z",
+    "id": "workday:deutsche-bank:R0452271",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Mumbai, Hazarimal Somani Marg"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "IGTC Interns 2027",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Hazarimal-Somani-Marg/IGTC-Interns-2027_R0452271"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Deutsche Bank",
+    "company_slug": "deutsche-bank",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "R0452276",
+    "first_seen": "2026-11-11T10:43:38.731558Z",
+    "id": "workday:deutsche-bank:R0452276",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Mumbai, Hazarimal Somani Marg"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "IGTC Interns 2027",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Hazarimal-Somani-Marg/IGTC-Interns-2027_R0452276"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Deutsche Bank",
+    "company_slug": "deutsche-bank",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "R0452577",
+    "first_seen": "2026-11-11T10:43:38.731558Z",
+    "id": "workday:deutsche-bank:R0452577",
+    "is_remote": false,
+    "last_seen": "2026-11-11",
+    "locations": [
+      "Pune - Business Bay"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "IGTC Interns 2027",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/IGTC-Interns-2027_R0452577"
   },
   {
     "category": "other",

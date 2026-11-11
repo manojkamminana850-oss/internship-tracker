@@ -26,7 +26,7 @@ Sorted newest first. **Age** is days since the company posted it (or since we fi
 Term, Batch and Duration show "—" unless the posting states them.
 
 <!-- LISTINGS:START -->
-**37 open internships** across 15 companies · Last updated: 2026-11-11 (IST)
+**41 open internships** across 16 companies · Last updated: 2026-11-11 (IST)
 
 ### Software Engineering (14)
 
@@ -85,14 +85,18 @@ Term, Batch and Duration show "—" unless the posting states them.
 | Microsoft | Product Design INTERN | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556992502) | 62d |
 | Microsoft | Product Management INTERN<br><sub>🎓 Master of Business Administration (MBA)</sub> | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556978896) | 78d |
 
-### Other (5)
+### Other (9)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
+| Deutsche Bank | IGTC Interns 2027 | Pune - Business Bay | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/IGTC-Interns-2027_R0452134) | 0d |
+| Deutsche Bank | IGTC Interns 2027 | Pune - Business Bay | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/IGTC-Interns-2027_R0452193) | 0d |
+| Deutsche Bank | IGTC Interns 2027 | Mumbai, Hazarimal Somani Marg | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Hazarimal-Somani-Marg/IGTC-Interns-2027_R0452271) | 0d |
+| Deutsche Bank | IGTC Interns 2027 | Mumbai, Hazarimal Somani Marg | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Hazarimal-Somani-Marg/IGTC-Interns-2027_R0452276) | 0d |
+| Deutsche Bank | IGTC Interns 2027 | Pune - Business Bay | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/IGTC-Interns-2027_R0452577) | 0d |
 | Analog Devices | Product Application Intern | India, Bangalore, Nova | — | — | — | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Product-Application-Intern_R267676) | 4d |
 | Juspay | BD - Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=B-I01) | 6d |
 | American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016056) | 7d |
-| American Express | Apprentice<br><sub>🎓 Bachelor’s degree</sub> | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26015382) | 9d |
 | Rubrik | ENG Project/ Program - Intern | Bangalore | — | 2027 | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8166514?gh_jid=8166514) | 66d |
 <!-- LISTINGS:END -->
 

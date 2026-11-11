@@ -6,12 +6,12 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
-| AMD | custom | ⚠️ failing for 2 runs: returned only 40 postings (previously 107) | 2026-11-10 | 0 |
-| NXP | workday | ⚠️ failing for 15 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
+| AMD | custom | ⚠️ failing for 3 runs: returned only 40 postings (previously 107) | 2026-11-10 | 0 |
+| NXP | workday | ⚠️ failing for 16 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
 | Adobe | phenom | ✅ OK | 2026-11-11 | 1 |
 | AlphaGrep | greenhouse | ✅ OK | 2026-11-11 | 0 |
 | Amazon | custom | ✅ OK | 2026-11-11 | 0 |
-| American Express | oracle_hcm | ✅ OK | 2026-11-11 | 2 |
+| American Express | oracle_hcm | ✅ OK | 2026-11-11 | 1 |
 | Analog Devices | workday | ✅ OK | 2026-11-11 | 2 |
 | Apple | custom | ✅ OK | 2026-11-11 | 2 |
 | Applied Materials | workday | ✅ OK | 2026-11-11 | 0 |
@@ -22,7 +22,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Capital One | workday | ✅ OK | 2026-11-11 | 0 |
 | Cisco | workday | ✅ OK | 2026-11-11 | 0 |
 | Databricks | greenhouse | ✅ OK | 2026-11-11 | 0 |
-| Deutsche Bank | workday | ✅ OK | 2026-11-11 | 0 |
+| Deutsche Bank | workday | ✅ OK | 2026-11-11 | 5 |
 | Goldman Sachs | custom | ✅ OK | 2026-11-11 | 0 |
 | Google | custom | ✅ OK | 2026-11-11 | 2 |
 | Graviton Research Capital | greenhouse | ✅ OK | 2026-11-11 | 0 |
