@@ -10,7 +10,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:apple:200676908",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Bengaluru, India"
     ],
@@ -32,7 +32,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:apple:200684719",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Hyderabad, India"
     ],
@@ -54,7 +54,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:google:109375266236572358",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Bengaluru, Karnataka, India",
       "Hyderabad, Telangana, India"
@@ -77,7 +77,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:google:109976286780105414",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Bengaluru, Karnataka, India",
       "Hyderabad, Telangana, India",
@@ -145,7 +145,7 @@
     "first_seen": "2026-11-05T11:37:54.192672Z",
     "id": "custom:juspay:B-I01",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Bangalore"
     ],
@@ -167,7 +167,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:DEV-BE02",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Bangalore"
     ],
@@ -189,7 +189,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:DEV-BE04",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Mumbai"
     ],
@@ -211,7 +211,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:PDE01",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Bangalore"
     ],
@@ -233,7 +233,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:PSE02",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Bangalore"
     ],
@@ -255,7 +255,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:quadeye:199893000002318371",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Gurgaon, Haryana, India"
     ],
@@ -277,7 +277,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:quadeye:199893000002318430",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Gurgaon, Haryana, India"
     ],
@@ -299,7 +299,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:quadeye:199893000002318440",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Gurgaon, Haryana, India"
     ],
@@ -333,7 +333,7 @@
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "eightfold",
     "status": "open",
@@ -359,7 +359,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393556917519",
     "is_remote": false,
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-11",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -389,7 +389,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393556978896",
     "is_remote": false,
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-11",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -419,7 +419,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393556992502",
     "is_remote": false,
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-11",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -449,7 +449,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393557043380",
     "is_remote": false,
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-11",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -471,7 +471,7 @@
     "first_seen": "2026-11-09T09:39:36.194472Z",
     "id": "eightfold:paypal:274923210258",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Bangalore, Karnataka, India",
       "Chennai, Tamil Nadu, India"
@@ -502,7 +502,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:qualcomm:446719784824",
     "is_remote": false,
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-11",
     "locations": [
       "Bangalore, India",
       "Hyderabad, Telangāna, India"
@@ -537,7 +537,7 @@
     "locations": [
       "Hyderabad, Telangāna, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "eightfold",
     "status": "open",
@@ -565,7 +565,7 @@
     "first_seen": "2026-10-27T07:36:29.514766Z",
     "id": "greenhouse:rubrik:8166514",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Bangalore"
     ],
@@ -587,7 +587,7 @@
     "first_seen": "2026-11-03T10:43:39.654780Z",
     "id": "greenhouse:rubrik:8166537",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Bangalore"
     ],
@@ -639,7 +639,7 @@
     "first_seen": "2026-11-04T10:46:36.017208Z",
     "id": "greenhouse:rubrik:8345283",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Bangalore"
     ],
@@ -669,7 +669,7 @@
     "first_seen": "2026-10-27T07:36:29.514766Z",
     "id": "greenhouse:stripe:8031833",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Bengaluru"
     ],
@@ -725,7 +725,7 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "oracle_hcm",
     "status": "open",
@@ -773,7 +773,7 @@
     "first_seen": "2026-11-04T18:16:02.072027Z",
     "id": "oracle_hcm:american-express:26016056",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Gurugram, HR, India"
     ],
@@ -817,7 +817,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "phenom:adobe:R173016",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Bangalore, Karnātaka, India"
     ],
@@ -839,7 +839,7 @@
     "first_seen": "2026-11-09T20:11:48.408865Z",
     "id": "workday:analog-devices:R267594",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "India, Bangalore, Nova"
     ],
@@ -861,7 +861,7 @@
     "first_seen": "2026-11-07T13:28:40.846159Z",
     "id": "workday:analog-devices:R267676",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "India, Bangalore, Nova"
     ],
@@ -938,7 +938,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604253",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Hyderabad"
     ],
@@ -968,7 +968,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604254",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Hyderabad"
     ],
@@ -998,7 +998,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604255",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Hyderabad"
     ],
@@ -1028,7 +1028,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604256",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Hyderabad"
     ],
@@ -1058,7 +1058,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604257",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "Hyderabad"
     ],
@@ -1088,7 +1088,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "workday:nvidia:JR2024423",
     "is_remote": false,
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
     "locations": [
       "India, Bengaluru"
     ],
