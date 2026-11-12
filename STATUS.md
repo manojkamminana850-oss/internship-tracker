@@ -2,16 +2,16 @@
 
 Live health of every company the tracker watches, refreshed on each run. [Back to the open internships](README.md).
 
-**100 companies tracked** · 98 OK · 2 failing · 12 not tracked · Last updated: 2026-11-12 (IST)
+**100 companies tracked** · 98 OK · 2 failing · 12 not tracked · Last updated: 2026-11-13 (IST)
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
-| AMD | custom | ⚠️ failing for 1 run: returned only 12 postings (previously 57) | 2026-11-12 | 0 |
-| NXP | workday | ⚠️ failing for 20 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
+| AMD | custom | ⚠️ failing for 2 runs: returned only 12 postings (previously 57) | 2026-11-12 | 0 |
+| NXP | workday | ⚠️ failing for 21 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
 | Adobe | phenom | ✅ OK | 2026-11-12 | 3 |
 | AlphaGrep | greenhouse | ✅ OK | 2026-11-12 | 0 |
 | Amazon | custom | ✅ OK | 2026-11-12 | 0 |
-| American Express | oracle_hcm | ✅ OK | 2026-11-12 | 1 |
+| American Express | oracle_hcm | ✅ OK | 2026-11-12 | 2 |
 | Analog Devices | workday | ✅ OK | 2026-11-12 | 0 |
 | Apple | custom | ✅ OK | 2026-11-12 | 2 |
 | Applied Materials | workday | ✅ OK | 2026-11-12 | 0 |

@@ -777,12 +777,34 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "oracle_hcm",
     "status": "open",
     "title": "Apprentice",
     "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26016056"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "American Express",
+    "company_slug": "american-express",
+    "date_posted": "2026-11-12",
+    "enrichment": null,
+    "external_id": "26016514",
+    "first_seen": "2026-11-12T22:19:58.511066Z",
+    "id": "oracle_hcm:american-express:26016514",
+    "is_remote": false,
+    "last_seen": "2026-11-12",
+    "locations": [
+      "Gurugram, HR, India"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "oracle_hcm",
+    "status": "open",
+    "title": "Apprentice",
+    "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26016514"
   },
   {
     "category": "other",
@@ -822,7 +844,7 @@
       "Bangalore, Karnātaka, India",
       "Noida, Uttar Pradesh, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "phenom",
     "status": "open",
@@ -866,7 +888,7 @@
     "locations": [
       "Bangalore, Karnātaka, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "phenom",
     "status": "open",
