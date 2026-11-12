@@ -26,20 +26,18 @@ Sorted newest first. **Age** is days since the company posted it (or since we fi
 Term, Batch and Duration show "—" unless the posting states them.
 
 <!-- LISTINGS:START -->
-**44 open internships** across 17 companies · Last updated: 2026-11-12 (IST)
+**34 open internships** across 14 companies · Last updated: 2026-11-12 (IST)
 
-### Software Engineering (15)
+### Software Engineering (13)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
-| Salesforce | Summer 2027 Intern - Software Engineer | India - Bangalore; India - Hyderabad | Summer 2027 | — | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) | 1d |
 | PayPal | Software Engineer Intern | Bangalore, Karnataka, India; Chennai, Tamil Nadu, India | — | — | — | [Apply](https://paypal.eightfold.ai/careers/job/274923210258) | 3d |
 | Juspay | Product Solution Engineer Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=PSE02) | 14d |
 | Juspay | Software Development Engineer Backend Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=DEV-BE02) | 14d |
 | Juspay | Software Development Engineer Backend Intern | Mumbai | — | — | — | [Apply](https://joinus.juspay.in/?jobId=DEV-BE04) | 14d |
 | Marvell | Research Intern (PhD), Autonomous Infrastructure and Telemetry | Hyderabad | — | — | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD---Autonomous-Infrastructure-and-Telemetry_2604257) | 14d |
 | Microsoft | Security Research INTERN<br><sub>🎓 Bachelor's Degree in Statistics, Mathematics, Computer Scie…</sub> | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557043380) | 20d |
-| Qualcomm | Interim Engineering Intern\_2027\_SW<br><sub>🎓 Masters, Bachelors: Computer Science Engineering, Communica…</sub> | Hyderabad, Telangāna, India | 2027 | — | — | [Apply](https://careers.qualcomm.com/careers/job/446719785836) | 58d |
 | Google | Software Engineering PhD Intern, Summer 2027 | Bengaluru, Karnataka, India; Hyderabad, Telangana, India; Pune, Maharashtra, India | Summer 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/109976286780105414) | 66d |
 | NXP | Technical Internship 2027 | Bangalore; Noida | 2027 | — | — | [Apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/Technical-Internship-2027_R-10066434) | 66d |
 | Rubrik | Software Engineer (CPD) - Winter Intern | Bangalore | — | — | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) | 67d |
@@ -48,7 +46,7 @@ Term, Batch and Duration show "—" unless the posting states them.
 | Quadeye | Intern - Systems Engineer | Gurgaon, Haryana, India | — | — | — | [Apply](https://quadeye.zohorecruit.in/jobs/Careers/199893000002318430) | 136d |
 | NXP | Technical Internship (2026) | Noida; Bangalore | 2026 | — | — | [Apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Noida/Internship----SoC--IP-Design---2024-_R-10052538) | 455d |
 
-### Data & ML (9)
+### Data & ML (8)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
@@ -60,7 +58,6 @@ Term, Batch and Duration show "—" unless the posting states them.
 | Adobe | 2027 Intern - Research PhD Intern | Bangalore, Karnātaka, India | 2027 | — | — | [Apply](https://careers.adobe.com/us/en/job/R173016) | 24d |
 | Apple | PhD Intern, Apple Ads (Machine Learning) | Hyderabad, India | — | — | — | [Apply](https://jobs.apple.com/en-in/details/200684719/phd-intern-apple-ads-machine-learning?team=SFTWR) | 53d |
 | Apple | PhD Intern, Machine Learning: MSI, Product Operations Team | Bengaluru, India | — | — | — | [Apply](https://jobs.apple.com/en-in/details/200676908/phd-intern-machine-learning-msi-product-operations-team?team=OPMFG) | 56d |
-| Microsoft | Research Sciences INTERN | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556641091) | 258d |
 
 ### Quant & Trading (1)
 
@@ -68,11 +65,10 @@ Term, Batch and Duration show "—" unless the posting states them.
 |---|---|---|---|---|---|---|---|
 | Quadeye | Intern - Quant Researcher | Gurgaon, Haryana, India | — | — | — | [Apply](https://quadeye.zohorecruit.in/jobs/Careers/199893000002318371) | 136d |
 
-### Hardware & Silicon (4)
+### Hardware & Silicon (3)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
-| Analog Devices | Analog Design Intern | India, Bangalore, Nova | — | — | — | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Analog-Design-Intern_R267594) | 2d |
 | Marvell | Research Intern (PhD), FPGA & Silicon Prototyping<br><sub>🎓 PhD, MS by Research, or MTech by Research program</sub> | Hyderabad | — | — | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD----FPGA---Silicon-Prototyping_2604254) | 14d |
 | Qualcomm | Interim Engineering Intern\_2027\_HW<br><sub>🎓 Masters, Bachelors: Electrical Engineering , VLSI , Embedde…</sub> | Bangalore, India; Hyderabad, Telangāna, India | 2027 | — | — | [Apply](https://careers.qualcomm.com/careers/job/446719784824) | 64d |
 | Google | Silicon Engineering Intern, PhD, Summer 2027 | Bengaluru, Karnataka, India; Hyderabad, Telangana, India | Summer 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/109375266236572358) | 66d |
@@ -87,17 +83,11 @@ Term, Batch and Duration show "—" unless the posting states them.
 | Microsoft | Product Design INTERN | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556992502) | 63d |
 | Microsoft | Product Management INTERN<br><sub>🎓 Master of Business Administration (MBA)</sub> | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556978896) | 79d |
 
-### Other (10)
+### Other (4)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
 | Adobe | Adobe Intern FY27 | Bangalore, Karnātaka, India | — | — | — | [Apply](https://careers.adobe.com/us/en/job/R173562) | 0d |
-| Deutsche Bank | IGTC Interns 2027 | Pune - Business Bay | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/IGTC-Interns-2027_R0452134) | 1d |
-| Deutsche Bank | IGTC Interns 2027 | Pune - Business Bay | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/IGTC-Interns-2027_R0452193) | 1d |
-| Deutsche Bank | IGTC Interns 2027 | Mumbai, Hazarimal Somani Marg | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Hazarimal-Somani-Marg/IGTC-Interns-2027_R0452271) | 1d |
-| Deutsche Bank | IGTC Interns 2027 | Mumbai, Hazarimal Somani Marg | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Hazarimal-Somani-Marg/IGTC-Interns-2027_R0452276) | 1d |
-| Deutsche Bank | IGTC Interns 2027 | Pune - Business Bay | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/IGTC-Interns-2027_R0452577) | 1d |
-| Analog Devices | Product Application Intern | India, Bangalore, Nova | — | — | — | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Product-Application-Intern_R267676) | 5d |
 | Juspay | BD - Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=B-I01) | 7d |
 | American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016056) | 8d |
 | Rubrik | ENG Project/ Program - Intern | Bangalore | — | 2027 | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8166514?gh_jid=8166514) | 67d |
