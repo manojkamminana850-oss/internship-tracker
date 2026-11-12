@@ -26,7 +26,7 @@ Sorted newest first. **Age** is days since the company posted it (or since we fi
 Term, Batch and Duration show "—" unless the posting states them.
 
 <!-- LISTINGS:START -->
-**43 open internships** across 17 companies · Last updated: 2026-11-12 (IST)
+**44 open internships** across 17 companies · Last updated: 2026-11-12 (IST)
 
 ### Software Engineering (15)
 
@@ -77,10 +77,11 @@ Term, Batch and Duration show "—" unless the posting states them.
 | Qualcomm | Interim Engineering Intern\_2027\_HW<br><sub>🎓 Masters, Bachelors: Electrical Engineering , VLSI , Embedde…</sub> | Bangalore, India; Hyderabad, Telangāna, India | 2027 | — | — | [Apply](https://careers.qualcomm.com/careers/job/446719784824) | 64d |
 | Google | Silicon Engineering Intern, PhD, Summer 2027 | Bengaluru, Karnataka, India; Hyderabad, Telangana, India | Summer 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/109375266236572358) | 66d |
 
-### Product (4)
+### Product (5)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
+| Adobe | 2027 Intern - Product Design Intern | Bangalore, Karnātaka, India; Noida, Uttar Pradesh, India | 2027 | — | — | [Apply](https://careers.adobe.com/us/en/job/R172738) | 0d |
 | Rubrik | Product Management Intern | Bangalore | — | — | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8345283?gh_jid=8345283) | 8d |
 | Juspay | Product Designer Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=PDE01) | 14d |
 | Microsoft | Product Design INTERN | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556992502) | 63d |
@@ -90,7 +91,7 @@ Term, Batch and Duration show "—" unless the posting states them.
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
-| Adobe | Adobe Intern FY27 | Bangalore, Karnātaka, India | — | — | — | [Apply](https://careers.adobe.com/us/en/job/R173562) | 1d |
+| Adobe | Adobe Intern FY27 | Bangalore, Karnātaka, India | — | — | — | [Apply](https://careers.adobe.com/us/en/job/R173562) | 0d |
 | Deutsche Bank | IGTC Interns 2027 | Pune - Business Bay | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/IGTC-Interns-2027_R0452134) | 1d |
 | Deutsche Bank | IGTC Interns 2027 | Pune - Business Bay | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/IGTC-Interns-2027_R0452193) | 1d |
 | Deutsche Bank | IGTC Interns 2027 | Mumbai, Hazarimal Somani Marg | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Hazarimal-Somani-Marg/IGTC-Interns-2027_R0452271) | 1d |
