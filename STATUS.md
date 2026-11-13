@@ -2,11 +2,14 @@
 
 Live health of every company the tracker watches, refreshed on each run. [Back to the open internships](README.md).
 
-**100 companies tracked** · 99 OK · 1 failing · 12 not tracked · Last updated: 2026-11-13 (IST)
+**100 companies tracked** · 96 OK · 4 failing · 12 not tracked · Last updated: 2026-11-14 (IST)
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
-| NXP | workday | ⚠️ failing for 24 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
+| Cisco | workday | ⚠️ failing for 1 run: FetchError: HTTP 521 from cisco.wd5.myworkdayjobs.com | 2026-11-13 | 0 |
+| Nvidia | workday | ⚠️ failing for 1 run: FetchError: HTTP 521 from nvidia.wd5.myworkdayjobs.com | 2026-11-13 | 1 |
+| NXP | workday | ⚠️ failing for 25 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
+| Visa | workday | ⚠️ failing for 1 run: FetchError: HTTP 521 from visa.wd5.myworkdayjobs.com | 2026-11-13 | 0 |
 | Adobe | phenom | ✅ OK | 2026-11-13 | 1 |
 | AlphaGrep | greenhouse | ✅ OK | 2026-11-13 | 0 |
 | Amazon | custom | ✅ OK | 2026-11-13 | 0 |
@@ -20,7 +23,6 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | BlackRock | workday | ✅ OK | 2026-11-13 | 0 |
 | Cadence | workday | ✅ OK | 2026-11-13 | 0 |
 | Capital One | workday | ✅ OK | 2026-11-13 | 0 |
-| Cisco | workday | ✅ OK | 2026-11-13 | 0 |
 | Databricks | greenhouse | ✅ OK | 2026-11-13 | 0 |
 | Deutsche Bank | workday | ✅ OK | 2026-11-13 | 0 |
 | Goldman Sachs | custom | ✅ OK | 2026-11-13 | 0 |
@@ -31,13 +33,12 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Marvell | workday | ✅ OK | 2026-11-13 | 5 |
 | Mastercard | workday | ✅ OK | 2026-11-13 | 0 |
 | Micron | workday | ✅ OK | 2026-11-13 | 0 |
-| Microsoft | eightfold | ✅ OK | 2026-11-12 | 4 |
+| Microsoft | eightfold | ✅ OK | 2026-11-13 | 4 |
 | Morgan Stanley | eightfold | ✅ OK | 2026-11-13 | 0 |
-| Nvidia | workday | ✅ OK | 2026-11-13 | 1 |
 | Oracle | oracle_hcm | ✅ OK | 2026-11-13 | 0 |
 | PayPal | eightfold | ✅ OK | 2026-11-13 | 1 |
 | Quadeye | custom | ✅ OK | 2026-11-13 | 3 |
-| Qualcomm | eightfold | ✅ OK | 2026-11-12 | 1 |
+| Qualcomm | eightfold | ✅ OK | 2026-11-13 | 1 |
 | Rippling | custom | ✅ OK | 2026-11-13 | 0 |
 | Rubrik | greenhouse | ✅ OK | 2026-11-13 | 3 |
 | Salesforce | workday | ✅ OK | 2026-11-13 | 0 |
@@ -48,7 +49,6 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Tower Research Capital | greenhouse | ✅ OK | 2026-11-13 | 0 |
 | Twilio | greenhouse | ✅ OK | 2026-11-13 | 0 |
 | Uber | oracle_hcm | ✅ OK | 2026-11-13 | 0 |
-| Visa | workday | ✅ OK | 2026-11-13 | 0 |
 | Wells Fargo | workday | ✅ OK | 2026-11-13 | 0 |
 | Agoda | greenhouse | ✅ OK | 2026-11-13 | 0 |
 | Airbnb | greenhouse | ✅ OK | 2026-11-13 | 0 |

@@ -181,10 +181,10 @@
   },
   {
     "company_slug": "cisco",
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "failure_alerted": false,
     "last_count": 125,
-    "last_error": null,
+    "last_error": "FetchError: HTTP 521 from cisco.wd5.myworkdayjobs.com",
     "last_success": "2026-11-13",
     "zero_since": null
   },
@@ -291,7 +291,7 @@
     "company_slug": "fivetran",
     "consecutive_failures": 0,
     "failure_alerted": false,
-    "last_count": 160,
+    "last_count": 197,
     "last_error": null,
     "last_success": "2026-11-13",
     "zero_since": null
@@ -491,7 +491,7 @@
     "failure_alerted": false,
     "last_count": 6,
     "last_error": null,
-    "last_success": "2026-11-12",
+    "last_success": "2026-11-13",
     "zero_since": null
   },
   {
@@ -559,16 +559,16 @@
   },
   {
     "company_slug": "nvidia",
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "failure_alerted": false,
     "last_count": 74,
-    "last_error": null,
+    "last_error": "FetchError: HTTP 521 from nvidia.wd5.myworkdayjobs.com",
     "last_success": "2026-11-13",
     "zero_since": null
   },
   {
     "company_slug": "nxp",
-    "consecutive_failures": 24,
+    "consecutive_failures": 25,
     "failure_alerted": false,
     "last_count": 48,
     "last_error": "FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com",
@@ -671,7 +671,7 @@
     "failure_alerted": false,
     "last_count": 3,
     "last_error": null,
-    "last_success": "2026-11-12",
+    "last_success": "2026-11-13",
     "zero_since": null
   },
   {
@@ -847,10 +847,10 @@
   },
   {
     "company_slug": "visa",
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "failure_alerted": false,
     "last_count": 38,
-    "last_error": null,
+    "last_error": "FetchError: HTTP 521 from visa.wd5.myworkdayjobs.com",
     "last_success": "2026-11-13",
     "zero_since": null
   },
