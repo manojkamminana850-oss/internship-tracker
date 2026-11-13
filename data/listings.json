@@ -10,7 +10,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:apple:200676908",
     "is_remote": false,
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "locations": [
       "Bengaluru, India"
     ],
@@ -32,7 +32,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:apple:200684719",
     "is_remote": false,
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "locations": [
       "Hyderabad, India"
     ],
@@ -764,7 +764,7 @@
   },
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-13T10:05:53.813949Z",
     "company": "American Express",
     "company_slug": "american-express",
     "date_posted": "2026-11-04",
@@ -777,10 +777,10 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": false,
     "source": "oracle_hcm",
-    "status": "open",
+    "status": "closed",
     "title": "Apprentice",
     "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26016056"
   },
