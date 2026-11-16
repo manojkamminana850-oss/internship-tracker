@@ -2,15 +2,14 @@
 
 Live health of every company the tracker watches, refreshed on each run. [Back to the open internships](README.md).
 
-**100 companies tracked** · 95 OK · 5 failing · 12 not tracked · Last updated: 2026-11-16 (IST)
+**100 companies tracked** · 96 OK · 4 failing · 12 not tracked · Last updated: 2026-11-16 (IST)
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
-| Capital One | workday | ⚠️ failing for 1 run: FetchError: HTTP 429 from capitalone.wd12.myworkdayjobs.com | 2026-11-15 | 0 |
+| Capital One | workday | ⚠️ failing for 2 runs: FetchError: HTTP 429 from capitalone.wd12.myworkdayjobs.com | 2026-11-15 | 0 |
 | Microsoft | eightfold | ⚠️ failing for 1 run: FetchError: HTTP 429 from microsoft.eightfold.ai | 2026-11-15 | 4 |
-| NXP | workday | ⚠️ failing for 34 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
-| Salesforce | workday | ⚠️ failing for 1 run: FetchError: HTTP 429 from salesforce.wd12.myworkdayjobs.com | 2026-11-15 | 0 |
-| Postman | workday | ⚠️ failing for 1 run: FetchError: HTTP 429 from postman.wd108.myworkdayjobs.com | 2026-11-15 | 0 |
+| NXP | workday | ⚠️ failing for 35 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
+| Salesforce | workday | ⚠️ failing for 2 runs: FetchError: HTTP 429 from salesforce.wd12.myworkdayjobs.com | 2026-11-15 | 0 |
 | Adobe | phenom | ✅ OK | 2026-11-16 | 1 |
 | AlphaGrep | greenhouse | ✅ OK | 2026-11-16 | 0 |
 | Amazon | custom | ✅ OK | 2026-11-16 | 0 |
@@ -92,6 +91,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | OpenAI | ashby | ✅ OK | 2026-11-16 | 0 |
 | Paytm | lever | ✅ OK | 2026-11-16 | 0 |
 | PhonePe | smartrecruiters | ✅ OK | 2026-11-16 | 0 |
+| Postman | workday | ✅ OK | 2026-11-16 | 0 |
 | Pure Storage | greenhouse | ✅ OK | 2026-11-16 | 0 |
 | Razorpay | greenhouse | ✅ OK | 2026-11-16 | 0 |
 | Roblox | greenhouse | ✅ OK | 2026-11-16 | 0 |
