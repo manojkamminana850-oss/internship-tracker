@@ -14,7 +14,7 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "custom",
     "status": "open",
@@ -36,7 +36,7 @@
     "locations": [
       "Hyderabad, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "custom",
     "status": "open",
@@ -403,7 +403,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393556917519",
     "is_remote": false,
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-17",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -433,7 +433,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393556978896",
     "is_remote": false,
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-17",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -467,7 +467,7 @@
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "eightfold",
     "status": "open",
@@ -493,7 +493,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393557043380",
     "is_remote": false,
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-17",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -546,7 +546,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:qualcomm:446719784824",
     "is_remote": false,
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-17",
     "locations": [
       "Bangalore, India",
       "Hyderabad, Telangāna, India"
