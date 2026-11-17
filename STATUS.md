@@ -2,42 +2,43 @@
 
 Live health of every company the tracker watches, refreshed on each run. [Back to the open internships](README.md).
 
-**100 companies tracked** · 82 OK · 18 failing · 12 not tracked · Last updated: 2026-11-17 (IST)
+**100 companies tracked** · 83 OK · 17 failing · 12 not tracked · Last updated: 2026-11-17 (IST)
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
-| Analog Devices | workday | ⚠️ failing for 3 runs: FetchError: HTTP 429 from analogdevices.wd1.myworkdayjobs.com | 2026-11-16 | 0 |
-| Applied Materials | workday | ⚠️ failing for 3 runs: FetchError: HTTP 429 from amat.wd1.myworkdayjobs.com | 2026-11-16 | 0 |
-| BlackRock | workday | ⚠️ failing for 3 runs: FetchError: HTTP 429 from blackrock.wd1.myworkdayjobs.com | 2026-11-16 | 0 |
-| Cadence | workday | ⚠️ failing for 3 runs: FetchError: HTTP 429 from cadence.wd1.myworkdayjobs.com | 2026-11-16 | 0 |
-| Cisco | workday | ⚠️ failing for 3 runs: FetchError: HTTP 429 from cisco.wd5.myworkdayjobs.com | 2026-11-16 | 0 |
-| Deutsche Bank | workday | ⚠️ failing for 3 runs: FetchError: HTTP 429 from db.wd3.myworkdayjobs.com | 2026-11-16 | 0 |
-| Intel | workday | ⚠️ failing for 3 runs: FetchError: HTTP 429 from intel.wd1.myworkdayjobs.com | 2026-11-16 | 0 |
-| Marvell | workday | ⚠️ failing for 3 runs: FetchError: HTTP 429 from marvell.wd1.myworkdayjobs.com | 2026-11-16 | 5 |
-| Mastercard | workday | ⚠️ failing for 3 runs: FetchError: HTTP 429 from mastercard.wd1.myworkdayjobs.com | 2026-11-16 | 0 |
-| Micron | workday | ⚠️ failing for 3 runs: FetchError: HTTP 429 from micron.wd1.myworkdayjobs.com | 2026-11-16 | 0 |
+| Apple | custom | ⚠️ failing for 1 run: TimeoutError: no answer within 120s | 2026-11-17 | 2 |
+| Applied Materials | workday | ⚠️ failing for 4 runs: FetchError: HTTP 429 from amat.wd1.myworkdayjobs.com | 2026-11-16 | 0 |
+| Cadence | workday | ⚠️ failing for 4 runs: FetchError: HTTP 429 from cadence.wd1.myworkdayjobs.com | 2026-11-16 | 0 |
+| Cisco | workday | ⚠️ failing for 4 runs: FetchError: HTTP 429 from cisco.wd5.myworkdayjobs.com | 2026-11-16 | 0 |
+| Deutsche Bank | workday | ⚠️ failing for 4 runs: FetchError: HTTP 429 from db.wd3.myworkdayjobs.com | 2026-11-16 | 0 |
+| Intel | workday | ⚠️ failing for 4 runs: FetchError: HTTP 429 from intel.wd1.myworkdayjobs.com | 2026-11-16 | 0 |
+| Mastercard | workday | ⚠️ failing for 4 runs: FetchError: HTTP 429 from mastercard.wd1.myworkdayjobs.com | 2026-11-16 | 0 |
+| Micron | workday | ⚠️ failing for 4 runs: FetchError: HTTP 429 from micron.wd1.myworkdayjobs.com | 2026-11-16 | 0 |
 | Microsoft | eightfold | ⚠️ failing for 1 run: FetchError: HTTP 429 from microsoft.eightfold.ai | 2026-11-15 | 4 |
-| Nvidia | workday | ⚠️ failing for 3 runs: FetchError: HTTP 429 from nvidia.wd5.myworkdayjobs.com | 2026-11-16 | 1 |
-| NXP | workday | ⚠️ failing for 38 runs: FetchError: HTTP 429 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
-| PayPal | eightfold | ⚠️ failing for 1 run: returned 0 postings (previously 1) | 2026-11-17 | 1 |
-| Salesforce | workday | ⚠️ failing for 5 runs: FetchError: HTTP 429 from salesforce.wd12.myworkdayjobs.com | 2026-11-15 | 0 |
-| Wells Fargo | workday | ⚠️ failing for 3 runs: FetchError: HTTP 429 from wf.wd1.myworkdayjobs.com | 2026-11-16 | 0 |
-| BrowserStack | workday | ⚠️ failing for 3 runs: FetchError: HTTP 429 from browserstack.wd3.myworkdayjobs.com | 2026-11-16 | 0 |
-| Sprinklr | workday | ⚠️ failing for 3 runs: FetchError: HTTP 429 from sprinklr.wd1.myworkdayjobs.com | 2026-11-16 | 0 |
+| Nvidia | workday | ⚠️ failing for 4 runs: FetchError: HTTP 429 from nvidia.wd5.myworkdayjobs.com | 2026-11-16 | 1 |
+| NXP | workday | ⚠️ failing for 39 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
+| PayPal | eightfold | ⚠️ failing for 2 runs: returned 0 postings (previously 1) | 2026-11-17 | 1 |
+| Salesforce | workday | ⚠️ failing for 6 runs: FetchError: HTTP 429 from salesforce.wd12.myworkdayjobs.com | 2026-11-15 | 0 |
+| Visa | workday | ⚠️ failing for 1 run: FetchError: HTTP 429 from visa.wd5.myworkdayjobs.com | 2026-11-17 | 0 |
+| Wells Fargo | workday | ⚠️ failing for 4 runs: FetchError: HTTP 429 from wf.wd1.myworkdayjobs.com | 2026-11-16 | 0 |
+| BrowserStack | workday | ⚠️ failing for 4 runs: FetchError: HTTP 429 from browserstack.wd3.myworkdayjobs.com | 2026-11-16 | 0 |
+| Sprinklr | workday | ⚠️ failing for 4 runs: FetchError: HTTP 429 from sprinklr.wd1.myworkdayjobs.com | 2026-11-16 | 0 |
 | Adobe | phenom | ✅ OK | 2026-11-17 | 1 |
 | AlphaGrep | greenhouse | ✅ OK | 2026-11-17 | 0 |
 | Amazon | custom | ✅ OK | 2026-11-17 | 0 |
 | AMD | custom | ✅ OK | 2026-11-17 | 0 |
 | American Express | oracle_hcm | ✅ OK | 2026-11-17 | 1 |
-| Apple | custom | ✅ OK | 2026-11-17 | 2 |
+| Analog Devices | workday | ✅ OK | 2026-11-17 | 0 |
 | Atlassian | custom | ✅ OK | 2026-11-17 | 0 |
 | Barclays | custom | ✅ OK | 2026-11-17 | 0 |
+| BlackRock | workday | ✅ OK | 2026-11-17 | 0 |
 | Capital One | workday | ✅ OK | 2026-11-17 | 0 |
 | Databricks | greenhouse | ✅ OK | 2026-11-17 | 0 |
 | Goldman Sachs | custom | ✅ OK | 2026-11-17 | 0 |
 | Google | custom | ✅ OK | 2026-11-17 | 3 |
 | Graviton Research Capital | greenhouse | ✅ OK | 2026-11-17 | 0 |
 | JPMorgan Chase | oracle_hcm | ✅ OK | 2026-11-17 | 0 |
+| Marvell | workday | ✅ OK | 2026-11-17 | 5 |
 | Morgan Stanley | eightfold | ✅ OK | 2026-11-17 | 0 |
 | Oracle | oracle_hcm | ✅ OK | 2026-11-17 | 0 |
 | Quadeye | custom | ✅ OK | 2026-11-17 | 3 |
@@ -51,7 +52,6 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Tower Research Capital | greenhouse | ✅ OK | 2026-11-17 | 0 |
 | Twilio | greenhouse | ✅ OK | 2026-11-17 | 0 |
 | Uber | oracle_hcm | ✅ OK | 2026-11-17 | 0 |
-| Visa | workday | ✅ OK | 2026-11-17 | 0 |
 | Agoda | greenhouse | ✅ OK | 2026-11-17 | 0 |
 | Airbnb | greenhouse | ✅ OK | 2026-11-17 | 0 |
 | Amplitude | ashby | ✅ OK | 2026-11-17 | 0 |
@@ -77,7 +77,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Ixigo | smartrecruiters | ✅ OK | 2026-11-17 | 0 |
 | JFrog | greenhouse | ✅ OK | 2026-11-17 | 0 |
 | Jump Trading | greenhouse | ✅ OK | 2026-11-17 | 0 |
-| Juspay | custom | ✅ OK | 2026-11-17 | 5 |
+| Juspay | custom | ✅ OK | 2026-11-17 | 6 |
 | Kong | ashby | ✅ OK | 2026-11-17 | 0 |
 | LaunchDarkly | greenhouse | ✅ OK | 2026-11-17 | 0 |
 | Meesho | lever | ✅ OK | 2026-11-17 | 0 |

@@ -267,6 +267,28 @@
     "url": "https://joinus.juspay.in/?jobId=PSE02"
   },
   {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Juspay",
+    "company_slug": "juspay",
+    "date_posted": null,
+    "enrichment": null,
+    "external_id": "QE05",
+    "first_seen": "2026-11-17T17:35:36.634752Z",
+    "id": "custom:juspay:QE05",
+    "is_remote": false,
+    "last_seen": "2026-11-17",
+    "locations": [
+      "Bangalore"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "custom",
+    "status": "open",
+    "title": "Quality Engineer Intern",
+    "url": "https://joinus.juspay.in/?jobId=QE05"
+  },
+  {
     "category": "quant",
     "closed_at": null,
     "company": "Quadeye",
@@ -1137,7 +1159,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604253",
     "is_remote": false,
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "locations": [
       "Hyderabad"
     ],
@@ -1167,7 +1189,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604254",
     "is_remote": false,
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "locations": [
       "Hyderabad"
     ],
@@ -1197,7 +1219,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604255",
     "is_remote": false,
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "locations": [
       "Hyderabad"
     ],
@@ -1227,7 +1249,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604256",
     "is_remote": false,
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "locations": [
       "Hyderabad"
     ],
@@ -1257,7 +1279,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604257",
     "is_remote": false,
-    "last_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "locations": [
       "Hyderabad"
     ],

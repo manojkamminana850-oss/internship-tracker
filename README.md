@@ -26,12 +26,13 @@ Sorted newest first. **Age** is days since the company posted it (or since we fi
 Term, Batch and Duration show "—" unless the posting states them.
 
 <!-- LISTINGS:START -->
-**33 open internships** across 14 companies · Last updated: 2026-11-17 (IST)
+**34 open internships** across 14 companies · Last updated: 2026-11-17 (IST)
 
-### Software Engineering (14)
+### Software Engineering (15)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
+| Juspay | Quality Engineer Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=QE05) | 0d |
 | Google | Forward Deployed Engineer Intern, 2027 | Bengaluru, Karnataka, India | 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/96299220855595718) | 1d |
 | PayPal | Software Engineer Intern | Bangalore, Karnataka, India; Chennai, Tamil Nadu, India | — | — | — | [Apply](https://paypal.eightfold.ai/careers/job/274923210258) | 8d |
 | Juspay | Product Solution Engineer Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=PSE02) | 19d |
