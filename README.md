@@ -26,7 +26,7 @@ Sorted newest first. **Age** is days since the company posted it (or since we fi
 Term, Batch and Duration show "—" unless the posting states them.
 
 <!-- LISTINGS:START -->
-**34 open internships** across 14 companies · Last updated: 2026-11-18 (IST)
+**36 open internships** across 14 companies · Last updated: 2026-11-18 (IST)
 
 ### Software Engineering (15)
 
@@ -48,7 +48,7 @@ Term, Batch and Duration show "—" unless the posting states them.
 | Quadeye | Intern - Systems Engineer | Gurgaon, Haryana, India | — | — | — | [Apply](https://quadeye.zohorecruit.in/jobs/Careers/199893000002318430) | 142d |
 | NXP | Technical Internship (2026) | Noida; Bangalore | 2026 | — | — | [Apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Noida/Internship----SoC--IP-Design---2024-_R-10052538) | 461d |
 
-### Data & ML (8)
+### Data & ML (7)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
@@ -58,7 +58,6 @@ Term, Batch and Duration show "—" unless the posting states them.
 | Nvidia | PhD Intern, AI ML in Wireless L1/L2 - Fall 2026<br><sub>🎓 PhD</sub> | India, Bengaluru | Fall 2026 | — | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) | 21d |
 | Microsoft | Applied Sciences INTERN | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556917519) | 23d |
 | Adobe | 2027 Intern - Research PhD Intern | Bangalore, Karnātaka, India | 2027 | — | — | [Apply](https://careers.adobe.com/us/en/job/R173016) | 30d |
-| Apple | PhD Intern, Apple Ads (Machine Learning) | Hyderabad, India | — | — | — | [Apply](https://jobs.apple.com/en-in/details/200684719/phd-intern-apple-ads-machine-learning?team=SFTWR) | 59d |
 | Apple | PhD Intern, Machine Learning: MSI, Product Operations Team | Bengaluru, India | — | — | — | [Apply](https://jobs.apple.com/en-in/details/200676908/phd-intern-machine-learning-msi-product-operations-team?team=OPMFG) | 62d |
 
 ### Quant & Trading (1)
@@ -84,10 +83,13 @@ Term, Batch and Duration show "—" unless the posting states them.
 | Microsoft | Product Design INTERN | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556992502) | 69d |
 | Microsoft | Product Management INTERN<br><sub>🎓 Master of Business Administration (MBA)</sub> | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556978896) | 85d |
 
-### Other (3)
+### Other (6)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
+| American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016519) | 0d |
+| American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016522) | 0d |
+| American Express | Apprentice | Bengaluru, KA, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016754) | 0d |
 | American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016514) | 6d |
 | Juspay | BD - Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=B-I01) | 13d |
 | Rubrik | ENG Project/ Program - Intern | Bangalore | — | 2027 | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8166514?gh_jid=8166514) | 73d |
