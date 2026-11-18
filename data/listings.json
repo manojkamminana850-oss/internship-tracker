@@ -1,7 +1,7 @@
 [
   {
     "category": "data_ml",
-    "closed_at": null,
+    "closed_at": "2026-11-18T16:33:10.416059Z",
     "company": "Apple",
     "company_slug": "apple",
     "date_posted": "2026-09-17",
@@ -14,10 +14,10 @@
     "locations": [
       "Bengaluru, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "custom",
-    "status": "open",
+    "status": "closed",
     "title": "PhD Intern, Machine Learning: MSI, Product Operations Team",
     "url": "https://jobs.apple.com/en-in/details/200676908/phd-intern-machine-learning-msi-product-operations-team?team=OPMFG"
   },
@@ -347,7 +347,7 @@
     "locations": [
       "Gurgaon, Haryana, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "custom",
     "status": "open",
@@ -520,7 +520,7 @@
       "Bangalore, Karnataka, India",
       "Chennai, Tamil Nadu, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "eightfold",
     "status": "open",

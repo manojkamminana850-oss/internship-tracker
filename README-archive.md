@@ -2,10 +2,11 @@
 
 Listings that are no longer on the company's career page. [Back to the open internships](README.md).
 
-**24 closed** · Last updated: 2026-11-18 (IST)
+**25 closed** · Last updated: 2026-11-18 (IST)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Posted | Closed |
 |---|---|---|---|---|---|---|---|---|
+| Apple | PhD Intern, Machine Learning: MSI, Product Operations Team | Bengaluru, India | — | — | — | [Apply](https://jobs.apple.com/en-in/details/200676908/phd-intern-machine-learning-msi-product-operations-team?team=OPMFG) | 2026-09-17 | 2026-11-18 |
 | Apple | PhD Intern, Apple Ads (Machine Learning) | Hyderabad, India | — | — | — | [Apply](https://jobs.apple.com/en-in/details/200684719/phd-intern-apple-ads-machine-learning?team=SFTWR) | 2026-09-20 | 2026-11-18 |
 | American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016056) | 2026-11-04 | 2026-11-13 |
 | Adobe | 2027 Intern - Product Design Intern | Bangalore, Karnātaka, India; Noida, Uttar Pradesh, India | 2027 | — | — | [Apply](https://careers.adobe.com/us/en/job/R172738) | 2026-11-12 | 2026-11-13 |
