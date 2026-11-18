@@ -347,7 +347,7 @@
     "locations": [
       "Gurgaon, Haryana, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "custom",
     "status": "open",
@@ -520,7 +520,7 @@
       "Bangalore, Karnataka, India",
       "Chennai, Tamil Nadu, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "eightfold",
     "status": "open",
