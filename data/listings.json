@@ -54,7 +54,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:google:109375266236572358",
     "is_remote": false,
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "locations": [
       "Bengaluru, Karnataka, India",
       "Hyderabad, Telangana, India"
@@ -77,7 +77,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:google:109976286780105414",
     "is_remote": false,
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "locations": [
       "Bengaluru, Karnataka, India",
       "Hyderabad, Telangana, India",
@@ -145,7 +145,7 @@
     "first_seen": "2026-11-16T16:04:27.351698Z",
     "id": "custom:google:96299220855595718",
     "is_remote": false,
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "locations": [
       "Bengaluru, Karnataka, India"
     ],
@@ -167,7 +167,7 @@
     "first_seen": "2026-11-05T11:37:54.192672Z",
     "id": "custom:juspay:B-I01",
     "is_remote": false,
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "locations": [
       "Bangalore"
     ],
@@ -189,7 +189,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:DEV-BE02",
     "is_remote": false,
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "locations": [
       "Bangalore"
     ],
@@ -211,7 +211,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:DEV-BE04",
     "is_remote": false,
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "locations": [
       "Mumbai"
     ],
@@ -233,7 +233,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:PDE01",
     "is_remote": false,
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "locations": [
       "Bangalore"
     ],
@@ -255,7 +255,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:PSE02",
     "is_remote": false,
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "locations": [
       "Bangalore"
     ],
@@ -277,7 +277,7 @@
     "first_seen": "2026-11-17T17:35:36.634752Z",
     "id": "custom:juspay:QE05",
     "is_remote": false,
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "locations": [
       "Bangalore"
     ],
@@ -299,7 +299,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:quadeye:199893000002318371",
     "is_remote": false,
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "locations": [
       "Gurgaon, Haryana, India"
     ],
@@ -321,7 +321,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:quadeye:199893000002318430",
     "is_remote": false,
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "locations": [
       "Gurgaon, Haryana, India"
     ],
@@ -334,7 +334,7 @@
   },
   {
     "category": "swe",
-    "closed_at": null,
+    "closed_at": "2026-11-19T04:06:32.325059Z",
     "company": "Quadeye",
     "company_slug": "quadeye",
     "date_posted": "2026-08-11",
@@ -347,10 +347,10 @@
     "locations": [
       "Gurgaon, Haryana, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "custom",
-    "status": "open",
+    "status": "closed",
     "title": "Intern - Software Developer (Product)",
     "url": "https://quadeye.zohorecruit.in/jobs/Careers/199893000002318440"
   },
@@ -506,7 +506,7 @@
   },
   {
     "category": "swe",
-    "closed_at": null,
+    "closed_at": "2026-11-19T04:06:32.325059Z",
     "company": "PayPal",
     "company_slug": "paypal",
     "date_posted": "2026-11-09",
@@ -520,10 +520,10 @@
       "Bangalore, Karnataka, India",
       "Chennai, Tamil Nadu, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": false,
     "source": "eightfold",
-    "status": "open",
+    "status": "closed",
     "title": "Software Engineer Intern",
     "url": "https://paypal.eightfold.ai/careers/job/274923210258"
   },
@@ -609,7 +609,7 @@
     "first_seen": "2026-10-27T07:36:29.514766Z",
     "id": "greenhouse:rubrik:8166514",
     "is_remote": false,
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "locations": [
       "Bangalore"
     ],
@@ -631,7 +631,7 @@
     "first_seen": "2026-11-03T10:43:39.654780Z",
     "id": "greenhouse:rubrik:8166537",
     "is_remote": false,
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "locations": [
       "Bangalore"
     ],
@@ -683,7 +683,7 @@
     "first_seen": "2026-11-04T10:46:36.017208Z",
     "id": "greenhouse:rubrik:8345283",
     "is_remote": false,
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "locations": [
       "Bangalore"
     ],
@@ -713,7 +713,7 @@
     "first_seen": "2026-10-27T07:36:29.514766Z",
     "id": "greenhouse:stripe:8031833",
     "is_remote": false,
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "locations": [
       "Bengaluru"
     ],
@@ -839,7 +839,7 @@
     "first_seen": "2026-11-12T22:19:58.511066Z",
     "id": "oracle_hcm:american-express:26016514",
     "is_remote": false,
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "locations": [
       "Gurugram, HR, India"
     ],
@@ -861,7 +861,7 @@
     "first_seen": "2026-11-18T07:11:01.980951Z",
     "id": "oracle_hcm:american-express:26016519",
     "is_remote": false,
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "locations": [
       "Gurugram, HR, India"
     ],
@@ -883,7 +883,7 @@
     "first_seen": "2026-11-18T07:11:01.980951Z",
     "id": "oracle_hcm:american-express:26016522",
     "is_remote": false,
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "locations": [
       "Gurugram, HR, India"
     ],
@@ -905,7 +905,7 @@
     "first_seen": "2026-11-18T07:11:01.980951Z",
     "id": "oracle_hcm:american-express:26016754",
     "is_remote": false,
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "locations": [
       "Bengaluru, KA, India"
     ],
@@ -972,7 +972,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "phenom:adobe:R173016",
     "is_remote": false,
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "locations": [
       "Bangalore, Karnātaka, India"
     ],
