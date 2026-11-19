@@ -403,7 +403,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393556917519",
     "is_remote": false,
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-19",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -433,7 +433,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393556978896",
     "is_remote": false,
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-19",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -467,7 +467,7 @@
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "eightfold",
     "status": "open",
@@ -493,7 +493,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393557043380",
     "is_remote": false,
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-19",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -546,7 +546,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:qualcomm:446719784824",
     "is_remote": false,
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-19",
     "locations": [
       "Bangalore, India",
       "Hyderabad, Telangāna, India"
@@ -747,6 +747,28 @@
     "url": "https://www.tower-research.com/open-positions/?gh_jid=8143756"
   },
   {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Paytm",
+    "company_slug": "paytm",
+    "date_posted": "2026-11-19",
+    "enrichment": null,
+    "external_id": "0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8",
+    "first_seen": "2026-11-19T12:56:32.916760Z",
+    "id": "lever:paytm:0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8",
+    "is_remote": true,
+    "last_seen": "2026-11-19",
+    "locations": [
+      "Noida, Uttar Pradesh"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "lever",
+    "status": "open",
+    "title": "Backend - Intern ( SEA & Europe)",
+    "url": "https://jobs.lever.co/paytm/0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8"
+  },
+  {
     "category": "other",
     "closed_at": "2026-11-11T10:43:38.731558Z",
     "company": "American Express",
@@ -808,23 +830,23 @@
   },
   {
     "category": "other",
-    "closed_at": "2026-11-13T10:05:53.813949Z",
+    "closed_at": null,
     "company": "American Express",
     "company_slug": "american-express",
-    "date_posted": "2026-11-04",
+    "date_posted": "2026-11-19",
     "enrichment": null,
     "external_id": "26016056",
     "first_seen": "2026-11-04T18:16:02.072027Z",
     "id": "oracle_hcm:american-express:26016056",
     "is_remote": false,
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-19",
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 3,
+    "missed_runs": 0,
     "notified": false,
     "source": "oracle_hcm",
-    "status": "closed",
+    "status": "open",
     "title": "Apprentice",
     "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26016056"
   },
