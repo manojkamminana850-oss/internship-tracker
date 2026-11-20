@@ -1,5 +1,27 @@
 [
   {
+    "category": "other",
+    "closed_at": null,
+    "company": "Sarvam AI",
+    "company_slug": "sarvam-ai",
+    "date_posted": "2026-11-20",
+    "enrichment": null,
+    "external_id": "0a5bf81d-3370-47e6-88f4-14aa5102ba72",
+    "first_seen": "2026-11-20T10:25:05.333219Z",
+    "id": "ashby:sarvam-ai:0a5bf81d-3370-47e6-88f4-14aa5102ba72",
+    "is_remote": false,
+    "last_seen": "2026-11-20",
+    "locations": [
+      "Bengaluru"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "ashby",
+    "status": "open",
+    "title": "Product User Research, Intern",
+    "url": "https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72"
+  },
+  {
     "category": "data_ml",
     "closed_at": "2026-11-18T16:33:10.416059Z",
     "company": "Apple",
@@ -546,7 +568,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:qualcomm:446719784824",
     "is_remote": false,
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "locations": [
       "Bangalore, India",
       "Hyderabad, Telangāna, India"
@@ -589,6 +611,28 @@
     "url": "https://careers.qualcomm.com/careers/job/446719785836"
   },
   {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Agoda",
+    "company_slug": "agoda",
+    "date_posted": "2024-10-11",
+    "enrichment": null,
+    "external_id": "6323041",
+    "first_seen": "2026-11-20T10:25:05.333219Z",
+    "id": "greenhouse:agoda:6323041",
+    "is_remote": false,
+    "last_seen": "2026-11-20",
+    "locations": [
+      "Gurgaon"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "greenhouse",
+    "status": "open",
+    "title": "Software Engineer Internship 2027 (6 months) - India-based, Gurgaon office",
+    "url": "https://job-boards.greenhouse.io/agoda/jobs/6323041"
+  },
+  {
     "category": "other",
     "closed_at": null,
     "company": "Rubrik",
@@ -619,6 +663,28 @@
     "status": "open",
     "title": "ENG Project/ Program - Intern",
     "url": "https://www.rubrik.com/company/careers/departments/job.8166514?gh_jid=8166514"
+  },
+  {
+    "category": "swe",
+    "closed_at": null,
+    "company": "Rubrik",
+    "company_slug": "rubrik",
+    "date_posted": "2026-09-06",
+    "enrichment": null,
+    "external_id": "8166523",
+    "first_seen": "2026-11-20T10:25:05.333219Z",
+    "id": "greenhouse:rubrik:8166523",
+    "is_remote": false,
+    "last_seen": "2026-11-20",
+    "locations": [
+      "Bangalore"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "greenhouse",
+    "status": "open",
+    "title": "Software Engineer - Winter Intern",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523"
   },
   {
     "category": "swe",
@@ -761,7 +827,7 @@
     "locations": [
       "Noida, Uttar Pradesh"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "lever",
     "status": "open",
