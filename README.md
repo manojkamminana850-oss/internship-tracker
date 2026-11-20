@@ -26,74 +26,74 @@ Sorted newest first. **Age** is days since the company posted it (or since we fi
 Term, Batch and Duration show "—" unless the posting states them.
 
 <!-- LISTINGS:START -->
-**37 open internships** across 15 companies · Last updated: 2026-11-20 (IST)
+**37 open internships** across 15 companies · Last updated: 2026-11-21 (IST)
 
 ### Software Engineering (16)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
-| Paytm | Backend - Intern ( SEA & Europe) | Noida, Uttar Pradesh (Remote) | — | — | — | [Apply](https://jobs.lever.co/paytm/0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8) | 1d |
-| Juspay | Quality Engineer Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=QE05) | 3d |
-| Google | Forward Deployed Engineer Intern, 2027 | Bengaluru, Karnataka, India | 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/96299220855595718) | 4d |
-| Juspay | Product Solution Engineer Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=PSE02) | 22d |
-| Juspay | Software Development Engineer Backend Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=DEV-BE02) | 22d |
-| Juspay | Software Development Engineer Backend Intern | Mumbai | — | — | — | [Apply](https://joinus.juspay.in/?jobId=DEV-BE04) | 22d |
-| Marvell | Research Intern (PhD), Autonomous Infrastructure and Telemetry | Hyderabad | — | — | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD---Autonomous-Infrastructure-and-Telemetry_2604257) | 22d |
-| Microsoft | Security Research INTERN<br><sub>🎓 Bachelor's Degree in Statistics, Mathematics, Computer Scie…</sub> | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557043380) | 28d |
-| Google | Software Engineering PhD Intern, Summer 2027 | Bengaluru, Karnataka, India; Hyderabad, Telangana, India; Pune, Maharashtra, India | Summer 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/109976286780105414) | 74d |
-| NXP | Technical Internship 2027 | Bangalore; Noida | 2027 | — | — | [Apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/Technical-Internship-2027_R-10066434) | 74d |
-| Rubrik | Software Engineer (CPD) - Winter Intern | Bangalore | — | — | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) | 75d |
-| Rubrik | Software Engineer - Winter Intern | Bangalore | — | — | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) | 75d |
-| Stripe | Software Engineer, Intern<br><sub>🎓 Bachelor’s or Master’s degree in computer science, math, or…</sub> | Bengaluru | — | — | — | [Apply](https://stripe.com/jobs/search?gh_jid=8031833) | 133d |
-| Quadeye | Intern - Systems Engineer | Gurgaon, Haryana, India | — | — | — | [Apply](https://quadeye.zohorecruit.in/jobs/Careers/199893000002318430) | 144d |
-| NXP | Technical Internship (2026) | Noida; Bangalore | 2026 | — | — | [Apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Noida/Internship----SoC--IP-Design---2024-_R-10052538) | 463d |
-| Agoda | Software Engineer Internship 2027 (6 months) - India-based, Gurgaon office | Gurgaon | 2027 | — | — | [Apply](https://job-boards.greenhouse.io/agoda/jobs/6323041) | 770d |
+| Paytm | Backend - Intern ( SEA & Europe) | Noida, Uttar Pradesh (Remote) | — | — | — | [Apply](https://jobs.lever.co/paytm/0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8) | 2d |
+| Juspay | Quality Engineer Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=QE05) | 4d |
+| Google | Forward Deployed Engineer Intern, 2027 | Bengaluru, Karnataka, India | 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/96299220855595718) | 5d |
+| Juspay | Product Solution Engineer Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=PSE02) | 23d |
+| Juspay | Software Development Engineer Backend Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=DEV-BE02) | 23d |
+| Juspay | Software Development Engineer Backend Intern | Mumbai | — | — | — | [Apply](https://joinus.juspay.in/?jobId=DEV-BE04) | 23d |
+| Marvell | Research Intern (PhD), Autonomous Infrastructure and Telemetry | Hyderabad | — | — | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD---Autonomous-Infrastructure-and-Telemetry_2604257) | 23d |
+| Microsoft | Security Research INTERN<br><sub>🎓 Bachelor's Degree in Statistics, Mathematics, Computer Scie…</sub> | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557043380) | 29d |
+| Google | Software Engineering PhD Intern, Summer 2027 | Bengaluru, Karnataka, India; Hyderabad, Telangana, India; Pune, Maharashtra, India | Summer 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/109976286780105414) | 75d |
+| NXP | Technical Internship 2027 | Bangalore; Noida | 2027 | — | — | [Apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/Technical-Internship-2027_R-10066434) | 75d |
+| Rubrik | Software Engineer (CPD) - Winter Intern | Bangalore | — | — | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) | 76d |
+| Rubrik | Software Engineer - Winter Intern | Bangalore | — | — | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) | 76d |
+| Stripe | Software Engineer, Intern<br><sub>🎓 Bachelor’s or Master’s degree in computer science, math, or…</sub> | Bengaluru | — | — | — | [Apply](https://stripe.com/jobs/search?gh_jid=8031833) | 134d |
+| Quadeye | Intern - Systems Engineer | Gurgaon, Haryana, India | — | — | — | [Apply](https://quadeye.zohorecruit.in/jobs/Careers/199893000002318430) | 145d |
+| NXP | Technical Internship (2026) | Noida; Bangalore | 2026 | — | — | [Apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Noida/Internship----SoC--IP-Design---2024-_R-10052538) | 464d |
+| Agoda | Software Engineer Internship 2027 (6 months) - India-based, Gurgaon office | Gurgaon | 2027 | — | — | [Apply](https://job-boards.greenhouse.io/agoda/jobs/6323041) | 771d |
 
 ### Data & ML (6)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
-| Marvell | Research Intern (PhD), AI-Scale Protocols & Simulation | Hyderabad | — | — | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD---AI-Scale-Protocols---Simulation_2604255) | 22d |
-| Marvell | Research Intern (PhD), Storage Systems for AI<br><sub>🎓 PhD, MS by Research, or MTech by Research program</sub> | Hyderabad | — | — | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD---Storage-Systems-for-AI_2604256) | 22d |
-| Marvell | Research Intern, Physical AI and GPU (PhD) | Hyderabad | — | — | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--Physical-AI-and-GPU--PhD-_2604253) | 22d |
-| Nvidia | PhD Intern, AI ML in Wireless L1/L2 - Fall 2026<br><sub>🎓 PhD</sub> | India, Bengaluru | Fall 2026 | — | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) | 23d |
-| Microsoft | Applied Sciences INTERN | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556917519) | 25d |
-| Adobe | 2027 Intern - Research PhD Intern | Bangalore, Karnātaka, India | 2027 | — | — | [Apply](https://careers.adobe.com/us/en/job/R173016) | 32d |
+| Marvell | Research Intern (PhD), AI-Scale Protocols & Simulation | Hyderabad | — | — | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD---AI-Scale-Protocols---Simulation_2604255) | 23d |
+| Marvell | Research Intern (PhD), Storage Systems for AI<br><sub>🎓 PhD, MS by Research, or MTech by Research program</sub> | Hyderabad | — | — | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD---Storage-Systems-for-AI_2604256) | 23d |
+| Marvell | Research Intern, Physical AI and GPU (PhD) | Hyderabad | — | — | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--Physical-AI-and-GPU--PhD-_2604253) | 23d |
+| Nvidia | PhD Intern, AI ML in Wireless L1/L2 - Fall 2026<br><sub>🎓 PhD</sub> | India, Bengaluru | Fall 2026 | — | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) | 24d |
+| Microsoft | Applied Sciences INTERN | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556917519) | 26d |
+| Adobe | 2027 Intern - Research PhD Intern | Bangalore, Karnātaka, India | 2027 | — | — | [Apply](https://careers.adobe.com/us/en/job/R173016) | 33d |
 
 ### Quant & Trading (1)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
-| Quadeye | Intern - Quant Researcher | Gurgaon, Haryana, India | — | — | — | [Apply](https://quadeye.zohorecruit.in/jobs/Careers/199893000002318371) | 144d |
+| Quadeye | Intern - Quant Researcher | Gurgaon, Haryana, India | — | — | — | [Apply](https://quadeye.zohorecruit.in/jobs/Careers/199893000002318371) | 145d |
 
 ### Hardware & Silicon (3)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
-| Marvell | Research Intern (PhD), FPGA & Silicon Prototyping<br><sub>🎓 PhD, MS by Research, or MTech by Research program</sub> | Hyderabad | — | — | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD----FPGA---Silicon-Prototyping_2604254) | 22d |
-| Qualcomm | Interim Engineering Intern\_2027\_HW<br><sub>🎓 Masters, Bachelors: Electrical Engineering , VLSI , Embedde…</sub> | Bangalore, India; Hyderabad, Telangāna, India | 2027 | — | — | [Apply](https://careers.qualcomm.com/careers/job/446719784824) | 72d |
-| Google | Silicon Engineering Intern, PhD, Summer 2027 | Bengaluru, Karnataka, India; Hyderabad, Telangana, India | Summer 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/109375266236572358) | 74d |
+| Marvell | Research Intern (PhD), FPGA & Silicon Prototyping<br><sub>🎓 PhD, MS by Research, or MTech by Research program</sub> | Hyderabad | — | — | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD----FPGA---Silicon-Prototyping_2604254) | 23d |
+| Qualcomm | Interim Engineering Intern\_2027\_HW<br><sub>🎓 Masters, Bachelors: Electrical Engineering , VLSI , Embedde…</sub> | Bangalore, India; Hyderabad, Telangāna, India | 2027 | — | — | [Apply](https://careers.qualcomm.com/careers/job/446719784824) | 73d |
+| Google | Silicon Engineering Intern, PhD, Summer 2027 | Bengaluru, Karnataka, India; Hyderabad, Telangana, India | Summer 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/109375266236572358) | 75d |
 
 ### Product (3)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
-| Rubrik | Product Management Intern | Bangalore | — | — | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8345283?gh_jid=8345283) | 16d |
-| Juspay | Product Designer Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=PDE01) | 22d |
-| Microsoft | Product Management INTERN<br><sub>🎓 Master of Business Administration (MBA)</sub> | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556978896) | 87d |
+| Rubrik | Product Management Intern | Bangalore | — | — | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8345283?gh_jid=8345283) | 17d |
+| Juspay | Product Designer Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=PDE01) | 23d |
+| Microsoft | Product Management INTERN<br><sub>🎓 Master of Business Administration (MBA)</sub> | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556978896) | 88d |
 
 ### Other (8)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
-| Sarvam AI | Product User Research, Intern | Bengaluru | — | — | — | [Apply](https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72) | 0d |
-| American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016056) | 1d |
-| American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016519) | 2d |
-| American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016522) | 2d |
-| American Express | Apprentice | Bengaluru, KA, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016754) | 2d |
-| American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016514) | 8d |
-| Juspay | BD - Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=B-I01) | 15d |
-| Rubrik | ENG Project/ Program - Intern | Bangalore | — | 2027 | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8166514?gh_jid=8166514) | 75d |
+| Sarvam AI | Product User Research, Intern | Bengaluru | — | — | — | [Apply](https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72) | 1d |
+| American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016056) | 2d |
+| American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016519) | 3d |
+| American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016522) | 3d |
+| American Express | Apprentice | Bengaluru, KA, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016754) | 3d |
+| American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016514) | 9d |
+| Juspay | BD - Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=B-I01) | 16d |
+| Rubrik | ENG Project/ Program - Intern | Bangalore | — | 2027 | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8166514?gh_jid=8166514) | 76d |
 <!-- LISTINGS:END -->
 
 ## Contributing
