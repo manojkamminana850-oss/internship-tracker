@@ -2,15 +2,16 @@
 
 Live health of every company the tracker watches, refreshed on each run. [Back to the open internships](README.md).
 
-**100 companies tracked** · 95 OK · 5 failing · 12 not tracked · Last updated: 2026-11-21 (IST)
+**100 companies tracked** · 94 OK · 6 failing · 12 not tracked · Last updated: 2026-11-22 (IST)
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
-| Cadence | workday | ⚠️ failing for 17 runs: FetchError: HTTP 429 from cadence.wd1.myworkdayjobs.com | 2026-11-16 | 0 |
-| Intel | workday | ⚠️ failing for 17 runs: FetchError: HTTP 429 from intel.wd1.myworkdayjobs.com | 2026-11-16 | 0 |
-| Nvidia | workday | ⚠️ failing for 17 runs: FetchError: HTTP 429 from nvidia.wd5.myworkdayjobs.com | 2026-11-16 | 1 |
-| NXP | workday | ⚠️ failing for 52 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
-| Sprinklr | workday | ⚠️ failing for 2 runs: FetchError: HTTP 429 from sprinklr.wd1.myworkdayjobs.com | 2026-11-21 | 0 |
+| Cisco | workday | ⚠️ failing for 1 run: FetchError: HTTP 429 from cisco.wd5.myworkdayjobs.com | 2026-11-21 | 0 |
+| Intel | workday | ⚠️ failing for 18 runs: FetchError: HTTP 429 from intel.wd1.myworkdayjobs.com | 2026-11-16 | 0 |
+| Mastercard | workday | ⚠️ failing for 1 run: FetchError: HTTP 429 from mastercard.wd1.myworkdayjobs.com | 2026-11-21 | 0 |
+| NXP | workday | ⚠️ failing for 53 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
+| Salesforce | workday | ⚠️ failing for 1 run: FetchError: HTTP 429 from salesforce.wd12.myworkdayjobs.com | 2026-11-21 | 0 |
+| Visa | workday | ⚠️ failing for 1 run: FetchError: HTTP 429 from visa.wd5.myworkdayjobs.com | 2026-11-21 | 0 |
 | Adobe | phenom | ✅ OK | 2026-11-21 | 1 |
 | AlphaGrep | greenhouse | ✅ OK | 2026-11-21 | 0 |
 | Amazon | custom | ✅ OK | 2026-11-21 | 0 |
@@ -22,8 +23,8 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Atlassian | custom | ✅ OK | 2026-11-21 | 0 |
 | Barclays | custom | ✅ OK | 2026-11-21 | 0 |
 | BlackRock | workday | ✅ OK | 2026-11-21 | 0 |
+| Cadence | workday | ✅ OK | 2026-11-21 | 0 |
 | Capital One | workday | ✅ OK | 2026-11-21 | 0 |
-| Cisco | workday | ✅ OK | 2026-11-21 | 0 |
 | Databricks | greenhouse | ✅ OK | 2026-11-21 | 0 |
 | Deutsche Bank | workday | ✅ OK | 2026-11-21 | 0 |
 | Goldman Sachs | custom | ✅ OK | 2026-11-21 | 0 |
@@ -31,17 +32,16 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Graviton Research Capital | greenhouse | ✅ OK | 2026-11-21 | 0 |
 | JPMorgan Chase | oracle_hcm | ✅ OK | 2026-11-21 | 0 |
 | Marvell | workday | ✅ OK | 2026-11-21 | 5 |
-| Mastercard | workday | ✅ OK | 2026-11-21 | 0 |
 | Micron | workday | ✅ OK | 2026-11-21 | 0 |
 | Microsoft | eightfold | ✅ OK | 2026-11-21 | 3 |
 | Morgan Stanley | eightfold | ✅ OK | 2026-11-21 | 0 |
+| Nvidia | workday | ✅ OK | 2026-11-21 | 1 |
 | Oracle | oracle_hcm | ✅ OK | 2026-11-21 | 0 |
 | PayPal | eightfold | ✅ OK | 2026-11-21 | 0 |
 | Quadeye | custom | ✅ OK | 2026-11-21 | 2 |
 | Qualcomm | eightfold | ✅ OK | 2026-11-21 | 1 |
 | Rippling | custom | ✅ OK | 2026-11-21 | 0 |
 | Rubrik | greenhouse | ✅ OK | 2026-11-21 | 4 |
-| Salesforce | workday | ✅ OK | 2026-11-21 | 0 |
 | ServiceNow | smartrecruiters | ✅ OK | 2026-11-21 | 0 |
 | Snowflake | ashby | ✅ OK | 2026-11-21 | 0 |
 | Stripe | greenhouse | ✅ OK | 2026-11-21 | 1 |
@@ -49,7 +49,6 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Tower Research Capital | greenhouse | ✅ OK | 2026-11-21 | 0 |
 | Twilio | greenhouse | ✅ OK | 2026-11-21 | 0 |
 | Uber | oracle_hcm | ✅ OK | 2026-11-21 | 0 |
-| Visa | workday | ✅ OK | 2026-11-21 | 0 |
 | Wells Fargo | workday | ✅ OK | 2026-11-21 | 0 |
 | Agoda | greenhouse | ✅ OK | 2026-11-21 | 1 |
 | Airbnb | greenhouse | ✅ OK | 2026-11-21 | 0 |
@@ -98,6 +97,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Roblox | greenhouse | ✅ OK | 2026-11-21 | 0 |
 | Sarvam AI | ashby | ✅ OK | 2026-11-21 | 1 |
 | Scale AI | greenhouse | ✅ OK | 2026-11-21 | 0 |
+| Sprinklr | workday | ✅ OK | 2026-11-21 | 0 |
 | Sumo Logic | greenhouse | ✅ OK | 2026-11-21 | 0 |
 | Swiggy | smartrecruiters | ✅ OK | 2026-11-21 | 0 |
 | Temporal | ashby | ✅ OK | 2026-11-21 | 0 |
