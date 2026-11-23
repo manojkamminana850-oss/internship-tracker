@@ -679,7 +679,7 @@
     "locations": [
       "Bangalore"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "greenhouse",
     "status": "open",
@@ -909,7 +909,7 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "oracle_hcm",
     "status": "open",
@@ -1443,6 +1443,29 @@
     "status": "open",
     "title": "Research Intern (PhD), Autonomous Infrastructure and Telemetry",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD---Autonomous-Infrastructure-and-Telemetry_2604257"
+  },
+  {
+    "category": "other",
+    "closed_at": null,
+    "company": "Micron",
+    "company_slug": "micron",
+    "date_posted": "2026-11-23",
+    "enrichment": null,
+    "external_id": "JR108596",
+    "first_seen": "2026-11-23T22:44:06.969111Z",
+    "id": "workday:micron:JR108596",
+    "is_remote": false,
+    "last_seen": "2026-11-23",
+    "locations": [
+      "Hyderabad - Phoenix Aquila, India",
+      "Bengaluru, India"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "Intern",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Intern_JR108596"
   },
   {
     "category": "data_ml",

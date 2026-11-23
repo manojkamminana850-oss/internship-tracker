@@ -2,15 +2,13 @@
 
 Live health of every company the tracker watches, refreshed on each run. [Back to the open internships](README.md).
 
-**100 companies tracked** · 95 OK · 5 failing · 12 not tracked · Last updated: 2026-11-23 (IST)
+**100 companies tracked** · 97 OK · 3 failing · 12 not tracked · Last updated: 2026-11-24 (IST)
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
-| Cisco | workday | ⚠️ failing for 2 runs: FetchError: HTTP 429 from cisco.wd5.myworkdayjobs.com | 2026-11-22 | 0 |
-| Intel | workday | ⚠️ failing for 3 runs: FetchError: HTTP 429 from intel.wd1.myworkdayjobs.com | 2026-11-22 | 0 |
-| Micron | workday | ⚠️ failing for 3 runs: FetchError: HTTP 429 from micron.wd1.myworkdayjobs.com | 2026-11-22 | 0 |
-| NXP | workday | ⚠️ failing for 59 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
-| Sprinklr | workday | ⚠️ failing for 3 runs: FetchError: HTTP 429 from sprinklr.wd1.myworkdayjobs.com | 2026-11-22 | 0 |
+| Intel | workday | ⚠️ failing for 4 runs: FetchError: HTTP 429 from intel.wd1.myworkdayjobs.com | 2026-11-22 | 0 |
+| Nvidia | workday | ⚠️ failing for 1 run: FetchError: HTTP 429 from nvidia.wd5.myworkdayjobs.com | 2026-11-23 | 1 |
+| NXP | workday | ⚠️ failing for 60 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
 | Adobe | phenom | ✅ OK | 2026-11-23 | 1 |
 | AlphaGrep | greenhouse | ✅ OK | 2026-11-23 | 0 |
 | Amazon | custom | ✅ OK | 2026-11-23 | 0 |
@@ -24,6 +22,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | BlackRock | workday | ✅ OK | 2026-11-23 | 0 |
 | Cadence | workday | ✅ OK | 2026-11-23 | 0 |
 | Capital One | workday | ✅ OK | 2026-11-23 | 0 |
+| Cisco | workday | ✅ OK | 2026-11-23 | 0 |
 | Databricks | greenhouse | ✅ OK | 2026-11-23 | 0 |
 | Deutsche Bank | workday | ✅ OK | 2026-11-23 | 0 |
 | Goldman Sachs | custom | ✅ OK | 2026-11-23 | 0 |
@@ -32,9 +31,9 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | JPMorgan Chase | oracle_hcm | ✅ OK | 2026-11-23 | 0 |
 | Marvell | workday | ✅ OK | 2026-11-23 | 5 |
 | Mastercard | workday | ✅ OK | 2026-11-23 | 0 |
+| Micron | workday | ✅ OK | 2026-11-23 | 1 |
 | Microsoft | eightfold | ✅ OK | 2026-11-22 | 3 |
 | Morgan Stanley | eightfold | ✅ OK | 2026-11-23 | 0 |
-| Nvidia | workday | ✅ OK | 2026-11-23 | 1 |
 | Oracle | oracle_hcm | ✅ OK | 2026-11-23 | 0 |
 | PayPal | eightfold | ✅ OK | 2026-11-23 | 0 |
 | Quadeye | custom | ✅ OK | 2026-11-23 | 2 |
@@ -98,6 +97,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Roblox | greenhouse | ✅ OK | 2026-11-23 | 0 |
 | Sarvam AI | ashby | ✅ OK | 2026-11-23 | 1 |
 | Scale AI | greenhouse | ✅ OK | 2026-11-23 | 0 |
+| Sprinklr | workday | ✅ OK | 2026-11-23 | 0 |
 | Sumo Logic | greenhouse | ✅ OK | 2026-11-23 | 0 |
 | Swiggy | smartrecruiters | ✅ OK | 2026-11-23 | 0 |
 | Temporal | ashby | ✅ OK | 2026-11-23 | 0 |
