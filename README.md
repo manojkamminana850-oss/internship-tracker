@@ -26,7 +26,7 @@ Sorted newest first. **Age** is days since the company posted it (or since we fi
 Term, Batch and Duration show "—" unless the posting states them.
 
 <!-- LISTINGS:START -->
-**35 open internships** across 14 companies · Last updated: 2026-11-24 (IST)
+**36 open internships** across 15 companies · Last updated: 2026-11-24 (IST)
 
 ### Software Engineering (14)
 
@@ -47,10 +47,11 @@ Term, Batch and Duration show "—" unless the posting states them.
 | Quadeye | Intern - Systems Engineer | Gurgaon, Haryana, India | — | — | — | [Apply](https://quadeye.zohorecruit.in/jobs/Careers/199893000002318430) | 148d |
 | NXP | Technical Internship (2026) | Noida; Bangalore | 2026 | — | — | [Apply](https://nxp.wd3.myworkdayjobs.com/careers/job/Noida/Internship----SoC--IP-Design---2024-_R-10052538) | 467d |
 
-### Data & ML (6)
+### Data & ML (7)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
+| Amazon | Data Scientist I 6M Intern | Chennai, Tamil Nadu, India | — | — | — | [Apply](https://www.amazon.jobs/en/jobs/10443572/data-scientist-i-6m-intern) | 0d |
 | Marvell | Research Intern (PhD), AI-Scale Protocols & Simulation | Hyderabad | — | — | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD---AI-Scale-Protocols---Simulation_2604255) | 26d |
 | Marvell | Research Intern (PhD), Storage Systems for AI<br><sub>🎓 PhD, MS by Research, or MTech by Research program</sub> | Hyderabad | — | — | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD---Storage-Systems-for-AI_2604256) | 26d |
 | Marvell | Research Intern, Physical AI and GPU (PhD) | Hyderabad | — | — | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--Physical-AI-and-GPU--PhD-_2604253) | 26d |
