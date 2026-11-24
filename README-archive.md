@@ -2,10 +2,11 @@
 
 Listings that are no longer on the company's career page. [Back to the open internships](README.md).
 
-**30 closed** · Last updated: 2026-11-24 (IST)
+**31 closed** · Last updated: 2026-11-24 (IST)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Posted | Closed |
 |---|---|---|---|---|---|---|---|---|
+| Rubrik | Software Engineer - Winter Intern | Bangalore | — | — | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) | 2026-09-06 | 2026-11-24 |
 | Agoda | Software Engineer Internship 2027 (6 months) - India-based, Gurgaon office | Gurgaon | 2027 | — | — | [Apply](https://job-boards.greenhouse.io/agoda/jobs/6323041) | 2024-10-11 | 2026-11-23 |
 | American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016514) | 2026-11-12 | 2026-11-21 |
 | Paytm | Backend - Intern ( SEA & Europe) | Noida, Uttar Pradesh (Remote) | — | — | — | [Apply](https://jobs.lever.co/paytm/0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8) | 2026-11-19 | 2026-11-21 |

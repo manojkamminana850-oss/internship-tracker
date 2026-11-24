@@ -688,7 +688,7 @@
   },
   {
     "category": "swe",
-    "closed_at": null,
+    "closed_at": "2026-11-24T18:12:48.728662Z",
     "company": "Rubrik",
     "company_slug": "rubrik",
     "date_posted": "2026-09-06",
@@ -701,10 +701,10 @@
     "locations": [
       "Bangalore"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": false,
     "source": "greenhouse",
-    "status": "open",
+    "status": "closed",
     "title": "Software Engineer - Winter Intern",
     "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523"
   },
@@ -858,6 +858,28 @@
   },
   {
     "category": "other",
+    "closed_at": null,
+    "company": "Paytm",
+    "company_slug": "paytm",
+    "date_posted": "2026-11-24",
+    "enrichment": null,
+    "external_id": "c8886602-f1b7-4c08-b181-f4d36b2d0e80",
+    "first_seen": "2026-11-24T18:12:48.728662Z",
+    "id": "lever:paytm:c8886602-f1b7-4c08-b181-f4d36b2d0e80",
+    "is_remote": false,
+    "last_seen": "2026-11-24",
+    "locations": [
+      "Noida, Uttar Pradesh"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "lever",
+    "status": "open",
+    "title": "Learning Experience Design Intern",
+    "url": "https://jobs.lever.co/paytm/c8886602-f1b7-4c08-b181-f4d36b2d0e80"
+  },
+  {
+    "category": "other",
     "closed_at": "2026-11-11T10:43:38.731558Z",
     "company": "American Express",
     "company_slug": "american-express",
@@ -921,17 +943,17 @@
     "closed_at": null,
     "company": "American Express",
     "company_slug": "american-express",
-    "date_posted": "2026-11-19",
+    "date_posted": "2026-11-24",
     "enrichment": null,
     "external_id": "26016056",
     "first_seen": "2026-11-04T18:16:02.072027Z",
     "id": "oracle_hcm:american-express:26016056",
     "is_remote": false,
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 0,
     "notified": false,
     "source": "oracle_hcm",
     "status": "open",
@@ -1160,6 +1182,29 @@
     "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Product-Application-Intern_R267676"
   },
   {
+    "category": "hardware",
+    "closed_at": null,
+    "company": "Cisco",
+    "company_slug": "cisco",
+    "date_posted": "2026-11-24",
+    "enrichment": null,
+    "external_id": "2032859-1",
+    "first_seen": "2026-11-24T18:12:48.728662Z",
+    "id": "workday:cisco:2032859-1",
+    "is_remote": false,
+    "last_seen": "2026-11-24",
+    "locations": [
+      "Bangalore, India",
+      "Pune, India"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "workday",
+    "status": "open",
+    "title": "ASIC Engineer - Spring Internship hiring.",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/ASIC-Engineer---Spring-Internship-hiring_2032859-1"
+  },
+  {
     "category": "other",
     "closed_at": "2026-10-30T18:50:43.440992Z",
     "company": "Deutsche Bank",
@@ -1343,7 +1388,7 @@
     "notified": true,
     "source": "workday",
     "status": "open",
-    "title": "Research Intern, Physical AI and GPU (PhD)",
+    "title": "Research Intern, Physical AI and Robotics Systems (PhD)",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--Physical-AI-and-GPU--PhD-_2604253"
   },
   {
@@ -1508,7 +1553,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "workday:nvidia:JR2024423",
     "is_remote": false,
-    "last_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
     "locations": [
       "India, Bengaluru"
     ],

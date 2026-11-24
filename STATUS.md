@@ -2,14 +2,15 @@
 
 Live health of every company the tracker watches, refreshed on each run. [Back to the open internships](README.md).
 
-**100 companies tracked** · 96 OK · 4 failing · 12 not tracked · Last updated: 2026-11-24 (IST)
+**100 companies tracked** · 95 OK · 5 failing · 12 not tracked · Last updated: 2026-11-24 (IST)
 
 | Company | Platform | Status | Last success | Open internships |
 |---|---|---|---|---|
-| Cadence | workday | ⚠️ failing for 1 run: FetchError: HTTP 429 from cadence.wd1.myworkdayjobs.com | 2026-11-23 | 0 |
-| Cisco | workday | ⚠️ failing for 1 run: FetchError: HTTP 429 from cisco.wd5.myworkdayjobs.com | 2026-11-23 | 0 |
-| Nvidia | workday | ⚠️ failing for 2 runs: FetchError: HTTP 429 from nvidia.wd5.myworkdayjobs.com | 2026-11-23 | 1 |
-| NXP | workday | ⚠️ failing for 61 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
+| Intel | workday | ⚠️ failing for 1 run: FetchError: HTTP 429 from intel.wd1.myworkdayjobs.com | 2026-11-24 | 0 |
+| Mastercard | workday | ⚠️ failing for 1 run: FetchError: HTTP 429 from mastercard.wd1.myworkdayjobs.com | 2026-11-24 | 0 |
+| NXP | workday | ⚠️ failing for 62 runs: FetchError: HTTP 422 from nxp.wd3.myworkdayjobs.com | 2026-11-07 | 2 |
+| Visa | workday | ⚠️ failing for 1 run: FetchError: HTTP 429 from visa.wd5.myworkdayjobs.com | 2026-11-24 | 0 |
+| Sprinklr | workday | ⚠️ failing for 1 run: FetchError: HTTP 429 from sprinklr.wd1.myworkdayjobs.com | 2026-11-24 | 0 |
 | Adobe | phenom | ✅ OK | 2026-11-24 | 1 |
 | AlphaGrep | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Amazon | custom | ✅ OK | 2026-11-24 | 1 |
@@ -21,25 +22,26 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Atlassian | custom | ✅ OK | 2026-11-24 | 0 |
 | Barclays | custom | ✅ OK | 2026-11-24 | 0 |
 | BlackRock | workday | ✅ OK | 2026-11-24 | 0 |
+| Cadence | workday | ✅ OK | 2026-11-24 | 0 |
 | Capital One | workday | ✅ OK | 2026-11-24 | 0 |
+| Cisco | workday | ✅ OK | 2026-11-24 | 1 |
 | Databricks | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Deutsche Bank | workday | ✅ OK | 2026-11-24 | 0 |
 | Goldman Sachs | custom | ✅ OK | 2026-11-24 | 0 |
 | Google | custom | ✅ OK | 2026-11-24 | 3 |
 | Graviton Research Capital | greenhouse | ✅ OK | 2026-11-24 | 0 |
-| Intel | workday | ✅ OK | 2026-11-24 | 0 |
 | JPMorgan Chase | oracle_hcm | ✅ OK | 2026-11-24 | 0 |
 | Marvell | workday | ✅ OK | 2026-11-24 | 5 |
-| Mastercard | workday | ✅ OK | 2026-11-24 | 0 |
 | Micron | workday | ✅ OK | 2026-11-24 | 1 |
 | Microsoft | eightfold | ✅ OK | 2026-11-22 | 3 |
 | Morgan Stanley | eightfold | ✅ OK | 2026-11-24 | 0 |
+| Nvidia | workday | ✅ OK | 2026-11-24 | 1 |
 | Oracle | oracle_hcm | ✅ OK | 2026-11-24 | 0 |
 | PayPal | eightfold | ✅ OK | 2026-11-24 | 0 |
 | Quadeye | custom | ✅ OK | 2026-11-24 | 2 |
 | Qualcomm | eightfold | ✅ OK | 2026-11-22 | 1 |
 | Rippling | custom | ✅ OK | 2026-11-24 | 0 |
-| Rubrik | greenhouse | ✅ OK | 2026-11-24 | 4 |
+| Rubrik | greenhouse | ✅ OK | 2026-11-24 | 3 |
 | Salesforce | workday | ✅ OK | 2026-11-24 | 0 |
 | ServiceNow | smartrecruiters | ✅ OK | 2026-11-24 | 0 |
 | Snowflake | ashby | ✅ OK | 2026-11-24 | 0 |
@@ -48,7 +50,6 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Tower Research Capital | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Twilio | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Uber | oracle_hcm | ✅ OK | 2026-11-24 | 0 |
-| Visa | workday | ✅ OK | 2026-11-24 | 0 |
 | Wells Fargo | workday | ✅ OK | 2026-11-24 | 0 |
 | Agoda | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Airbnb | greenhouse | ✅ OK | 2026-11-24 | 0 |
@@ -89,7 +90,7 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Observe.AI | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Okta | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | OpenAI | ashby | ✅ OK | 2026-11-24 | 0 |
-| Paytm | lever | ✅ OK | 2026-11-24 | 0 |
+| Paytm | lever | ✅ OK | 2026-11-24 | 1 |
 | PhonePe | smartrecruiters | ✅ OK | 2026-11-24 | 0 |
 | Postman | workday | ✅ OK | 2026-11-24 | 0 |
 | Pure Storage | greenhouse | ✅ OK | 2026-11-24 | 0 |
@@ -97,7 +98,6 @@ Live health of every company the tracker watches, refreshed on each run. [Back t
 | Roblox | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Sarvam AI | ashby | ✅ OK | 2026-11-24 | 1 |
 | Scale AI | greenhouse | ✅ OK | 2026-11-24 | 0 |
-| Sprinklr | workday | ✅ OK | 2026-11-24 | 0 |
 | Sumo Logic | greenhouse | ✅ OK | 2026-11-24 | 0 |
 | Swiggy | smartrecruiters | ✅ OK | 2026-11-24 | 0 |
 | Temporal | ashby | ✅ OK | 2026-11-24 | 0 |
