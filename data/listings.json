@@ -193,7 +193,7 @@
     "locations": [
       "Bengaluru, Karnataka, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "custom",
     "status": "open",
@@ -805,7 +805,7 @@
     "locations": [
       "Bengaluru"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "greenhouse",
     "status": "open",
@@ -953,7 +953,7 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "oracle_hcm",
     "status": "open",
@@ -1041,7 +1041,7 @@
     "locations": [
       "Bengaluru, KA, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "oracle_hcm",
     "status": "open",
