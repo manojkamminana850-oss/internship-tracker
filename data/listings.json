@@ -180,7 +180,7 @@
   },
   {
     "category": "swe",
-    "closed_at": null,
+    "closed_at": "2026-11-26T12:51:59.890638Z",
     "company": "Google",
     "company_slug": "google",
     "date_posted": "2026-11-16",
@@ -193,10 +193,10 @@
     "locations": [
       "Bengaluru, Karnataka, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": false,
     "source": "custom",
-    "status": "open",
+    "status": "closed",
     "title": "Forward Deployed Engineer Intern, 2027",
     "url": "https://www.google.com/about/careers/applications/jobs/results/96299220855595718"
   },
@@ -347,7 +347,7 @@
     "locations": [
       "Gurgaon, Haryana, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "custom",
     "status": "open",
@@ -369,7 +369,7 @@
     "locations": [
       "Gurgaon, Haryana, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": true,
     "source": "custom",
     "status": "open",
@@ -433,7 +433,7 @@
     "closed_at": null,
     "company": "Microsoft",
     "company_slug": "microsoft",
-    "date_posted": "2026-10-26",
+    "date_posted": "2026-11-23",
     "enrichment": {
       "degree": null,
       "duration_months": null,
@@ -447,7 +447,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393556917519",
     "is_remote": false,
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-26",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -477,7 +477,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393556978896",
     "is_remote": false,
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-26",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -537,7 +537,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:microsoft:1970393557043380",
     "is_remote": false,
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-26",
     "locations": [
       "India, Multiple Locations, Multiple Locations"
     ],
@@ -590,7 +590,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "eightfold:qualcomm:446719784824",
     "is_remote": false,
-    "last_seen": "2026-11-22",
+    "last_seen": "2026-11-26",
     "locations": [
       "Bangalore, India",
       "Hyderabad, Telangāna, India"
@@ -785,6 +785,28 @@
   {
     "category": "swe",
     "closed_at": null,
+    "company": "Rubrik",
+    "company_slug": "rubrik",
+    "date_posted": "2026-11-26",
+    "enrichment": null,
+    "external_id": "8413157",
+    "first_seen": "2026-11-26T12:51:59.890638Z",
+    "id": "greenhouse:rubrik:8413157",
+    "is_remote": false,
+    "last_seen": "2026-11-26",
+    "locations": [
+      "Bangalore"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "greenhouse",
+    "status": "open",
+    "title": "Software Engineer (UI) - Winter Intern",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8413157?gh_jid=8413157"
+  },
+  {
+    "category": "swe",
+    "closed_at": "2026-11-26T12:51:59.890638Z",
     "company": "Stripe",
     "company_slug": "stripe",
     "date_posted": "2026-07-10",
@@ -805,10 +827,10 @@
     "locations": [
       "Bengaluru"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": true,
     "source": "greenhouse",
-    "status": "open",
+    "status": "closed",
     "title": "Software Engineer, Intern",
     "url": "https://stripe.com/jobs/search?gh_jid=8031833"
   },
@@ -880,6 +902,28 @@
   },
   {
     "category": "other",
+    "closed_at": null,
+    "company": "Zeta",
+    "company_slug": "zeta",
+    "date_posted": "2026-11-26",
+    "enrichment": null,
+    "external_id": "331526ff-cb2d-4b93-a812-ff37ebb7edc2",
+    "first_seen": "2026-11-26T12:51:59.890638Z",
+    "id": "lever:zeta:331526ff-cb2d-4b93-a812-ff37ebb7edc2",
+    "is_remote": false,
+    "last_seen": "2026-11-26",
+    "locations": [
+      "Bangalore - WF"
+    ],
+    "missed_runs": 0,
+    "notified": false,
+    "source": "lever",
+    "status": "open",
+    "title": "Intern",
+    "url": "https://jobs.lever.co/zeta/331526ff-cb2d-4b93-a812-ff37ebb7edc2"
+  },
+  {
+    "category": "other",
     "closed_at": "2026-11-11T10:43:38.731558Z",
     "company": "American Express",
     "company_slug": "american-express",
@@ -940,7 +984,7 @@
   },
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-26T12:51:59.890638Z",
     "company": "American Express",
     "company_slug": "american-express",
     "date_posted": "2026-11-24",
@@ -953,10 +997,10 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": false,
     "source": "oracle_hcm",
-    "status": "open",
+    "status": "closed",
     "title": "Apprentice",
     "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26016056"
   },
@@ -997,7 +1041,7 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "oracle_hcm",
     "status": "open",
@@ -1019,7 +1063,7 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 0,
+    "missed_runs": 1,
     "notified": false,
     "source": "oracle_hcm",
     "status": "open",
@@ -1028,7 +1072,7 @@
   },
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-26T12:51:59.890638Z",
     "company": "American Express",
     "company_slug": "american-express",
     "date_posted": "2026-11-18",
@@ -1041,10 +1085,10 @@
     "locations": [
       "Bengaluru, KA, India"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": false,
     "source": "oracle_hcm",
-    "status": "open",
+    "status": "closed",
     "title": "Apprentice",
     "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26016754"
   },

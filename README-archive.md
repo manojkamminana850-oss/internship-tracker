@@ -2,10 +2,14 @@
 
 Listings that are no longer on the company's career page. [Back to the open internships](README.md).
 
-**31 closed** · Last updated: 2026-11-26 (IST)
+**35 closed** · Last updated: 2026-11-26 (IST)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Posted | Closed |
 |---|---|---|---|---|---|---|---|---|
+| American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016056) | 2026-11-24 | 2026-11-26 |
+| American Express | Apprentice | Bengaluru, KA, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016754) | 2026-11-18 | 2026-11-26 |
+| Google | Forward Deployed Engineer Intern, 2027 | Bengaluru, Karnataka, India | 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/96299220855595718) | 2026-11-16 | 2026-11-26 |
+| Stripe | Software Engineer, Intern<br><sub>🎓 Bachelor’s or Master’s degree in computer science, math, or…</sub> | Bengaluru | — | — | — | [Apply](https://stripe.com/jobs/search?gh_jid=8031833) | 2026-07-10 | 2026-11-26 |
 | Rubrik | Software Engineer - Winter Intern | Bangalore | — | — | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) | 2026-09-06 | 2026-11-24 |
 | Agoda | Software Engineer Internship 2027 (6 months) - India-based, Gurgaon office | Gurgaon | 2027 | — | — | [Apply](https://job-boards.greenhouse.io/agoda/jobs/6323041) | 2024-10-11 | 2026-11-23 |
 | American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016514) | 2026-11-12 | 2026-11-21 |
