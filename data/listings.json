@@ -347,7 +347,7 @@
     "locations": [
       "Gurgaon, Haryana, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "custom",
     "status": "open",
@@ -369,7 +369,7 @@
     "locations": [
       "Gurgaon, Haryana, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": true,
     "source": "custom",
     "status": "open",
@@ -1041,7 +1041,7 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "oracle_hcm",
     "status": "open",
@@ -1063,7 +1063,7 @@
     "locations": [
       "Gurugram, HR, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "oracle_hcm",
     "status": "open",
