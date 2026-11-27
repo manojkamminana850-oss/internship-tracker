@@ -2,7 +2,7 @@
 
 Listings that are no longer on the company's career page. [Back to the open internships](README.md).
 
-**39 closed** · Last updated: 2026-11-27 (IST)
+**38 closed** · Last updated: 2026-11-27 (IST)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Posted | Closed |
 |---|---|---|---|---|---|---|---|---|
@@ -10,7 +10,6 @@ Listings that are no longer on the company's career page. [Back to the open inte
 | American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016522) | 2026-11-18 | 2026-11-27 |
 | Quadeye | Intern - Quant Researcher | Gurgaon, Haryana, India | — | — | — | [Apply](https://quadeye.zohorecruit.in/jobs/Careers/199893000002318371) | 2026-06-29 | 2026-11-27 |
 | Quadeye | Intern - Systems Engineer | Gurgaon, Haryana, India | — | — | — | [Apply](https://quadeye.zohorecruit.in/jobs/Careers/199893000002318430) | 2026-06-29 | 2026-11-27 |
-| American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016056) | 2026-11-24 | 2026-11-26 |
 | American Express | Apprentice | Bengaluru, KA, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016754) | 2026-11-18 | 2026-11-26 |
 | Google | Forward Deployed Engineer Intern, 2027 | Bengaluru, Karnataka, India | 2027 | — | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/96299220855595718) | 2026-11-16 | 2026-11-26 |
 | Stripe | Software Engineer, Intern<br><sub>🎓 Bachelor’s or Master’s degree in computer science, math, or…</sub> | Bengaluru | — | — | — | [Apply](https://stripe.com/jobs/search?gh_jid=8031833) | 2026-07-10 | 2026-11-26 |

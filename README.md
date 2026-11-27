@@ -26,7 +26,7 @@ Sorted newest first. **Age** is days since the company posted it (or since we fi
 Term, Batch and Duration show "—" unless the posting states them.
 
 <!-- LISTINGS:START -->
-**32 open internships** across 16 companies · Last updated: 2026-11-27 (IST)
+**36 open internships** across 18 companies · Last updated: 2026-11-27 (IST)
 
 ### Software Engineering (11)
 
@@ -74,10 +74,14 @@ Term, Batch and Duration show "—" unless the posting states them.
 | Juspay | Product Designer Intern | Bangalore | — | — | — | [Apply](https://joinus.juspay.in/?jobId=PDE01) | 29d |
 | Microsoft | Product Management INTERN<br><sub>🎓 Master of Business Administration (MBA)</sub> | India, Multiple Locations, Multiple Locations | — | — | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556978896) | 94d |
 
-### Other (6)
+### Other (10)
 
 | Company | Role | Location | Term | Batch | Duration | Apply | Age |
 |---|---|---|---|---|---|---|---|
+| American Express | Apprentice | Gurugram, HR, India | — | — | — | [Apply](https://careers.americanexpress.com/en/sites/CX_1/job/26016056) | 0d |
+| Deutsche Bank | BITS Interns Jan - June 2027 | Pune - Business Bay | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/BITS-Interns-Jan---June-2027_R0455693) | 0d |
+| Deutsche Bank | BITs Interns Jan - June 2027 | Pune - Business Bay | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/BITs-Interns-Jan---June-2027_R0456805) | 0d |
+| Deutsche Bank | BITs Interns Jan -June 2027 | Pune - Business Bay | 2027 | — | — | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/BITs-Interns-Jan--June-2027_R0456670) | 0d |
 | Zeta | Intern | Bangalore - WF | — | — | — | [Apply](https://jobs.lever.co/zeta/331526ff-cb2d-4b93-a812-ff37ebb7edc2) | 1d |
 | Paytm | Learning Experience Design Intern | Noida, Uttar Pradesh | — | — | — | [Apply](https://jobs.lever.co/paytm/c8886602-f1b7-4c08-b181-f4d36b2d0e80) | 3d |
 | Micron | Intern | Hyderabad - Phoenix Aquila, India; Bengaluru, India | — | — | — | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Intern_JR108596) | 4d |
