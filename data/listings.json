@@ -1,7 +1,7 @@
 [
   {
     "category": "other",
-    "closed_at": null,
+    "closed_at": "2026-11-28T04:19:22.053674Z",
     "company": "Sarvam AI",
     "company_slug": "sarvam-ai",
     "date_posted": "2026-11-20",
@@ -14,10 +14,10 @@
     "locations": [
       "Bengaluru"
     ],
-    "missed_runs": 2,
+    "missed_runs": 3,
     "notified": false,
     "source": "ashby",
-    "status": "open",
+    "status": "closed",
     "title": "Product User Research, Intern",
     "url": "https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72"
   },
@@ -32,7 +32,7 @@
     "first_seen": "2026-11-24T06:30:45.685593Z",
     "id": "custom:amazon:10443572",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Chennai, Tamil Nadu, India"
     ],
@@ -98,7 +98,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:google:109375266236572358",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bengaluru, Karnataka, India",
       "Hyderabad, Telangana, India"
@@ -121,7 +121,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:google:109976286780105414",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bengaluru, Karnataka, India",
       "Hyderabad, Telangana, India",
@@ -211,7 +211,7 @@
     "first_seen": "2026-11-05T11:37:54.192672Z",
     "id": "custom:juspay:B-I01",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bangalore"
     ],
@@ -233,7 +233,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:DEV-BE02",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bangalore"
     ],
@@ -255,7 +255,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:DEV-BE04",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Mumbai"
     ],
@@ -277,7 +277,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:PDE01",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bangalore"
     ],
@@ -299,7 +299,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "custom:juspay:PSE02",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bangalore"
     ],
@@ -321,7 +321,7 @@
     "first_seen": "2026-11-17T17:35:36.634752Z",
     "id": "custom:juspay:QE05",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bangalore"
     ],
@@ -675,7 +675,7 @@
     "first_seen": "2026-10-27T07:36:29.514766Z",
     "id": "greenhouse:rubrik:8166514",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bangalore"
     ],
@@ -719,7 +719,7 @@
     "first_seen": "2026-11-03T10:43:39.654780Z",
     "id": "greenhouse:rubrik:8166537",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bangalore"
     ],
@@ -771,7 +771,7 @@
     "first_seen": "2026-11-04T10:46:36.017208Z",
     "id": "greenhouse:rubrik:8345283",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bangalore"
     ],
@@ -793,7 +793,7 @@
     "first_seen": "2026-11-26T12:51:59.890638Z",
     "id": "greenhouse:rubrik:8413157",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bangalore"
     ],
@@ -889,7 +889,7 @@
     "first_seen": "2026-11-24T18:12:48.728662Z",
     "id": "lever:paytm:c8886602-f1b7-4c08-b181-f4d36b2d0e80",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Noida, Uttar Pradesh"
     ],
@@ -911,7 +911,7 @@
     "first_seen": "2026-11-26T12:51:59.890638Z",
     "id": "lever:zeta:331526ff-cb2d-4b93-a812-ff37ebb7edc2",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bangalore - WF"
     ],
@@ -993,7 +993,7 @@
     "first_seen": "2026-11-04T18:16:02.072027Z",
     "id": "oracle_hcm:american-express:26016056",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Gurugram, HR, India"
     ],
@@ -1148,7 +1148,7 @@
     "first_seen": "2026-10-28T20:02:15.898496Z",
     "id": "phenom:adobe:R173016",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Bangalore, Karnātaka, India"
     ],
@@ -1416,7 +1416,7 @@
     "first_seen": "2026-11-27T13:59:22.220677Z",
     "id": "workday:deutsche-bank:R0455693",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Pune - Business Bay"
     ],
@@ -1438,7 +1438,7 @@
     "first_seen": "2026-11-27T13:59:22.220677Z",
     "id": "workday:deutsche-bank:R0456670",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Pune - Business Bay"
     ],
@@ -1482,7 +1482,7 @@
     "first_seen": "2026-11-27T13:59:22.220677Z",
     "id": "workday:deutsche-bank:R0456805",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Pune - Business Bay"
     ],
@@ -1659,7 +1659,7 @@
       "Hyderabad - Phoenix Aquila, India",
       "Bengaluru, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "workday",
     "status": "open",
