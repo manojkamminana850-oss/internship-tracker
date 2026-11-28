@@ -1218,7 +1218,7 @@
     "locations": [
       "India, Bangalore, Nova"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -1263,7 +1263,7 @@
       "Bangalore, India",
       "Pune, India"
     ],
-    "missed_runs": 1,
+    "missed_runs": 2,
     "notified": false,
     "source": "workday",
     "status": "open",
@@ -1512,7 +1512,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604253",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Hyderabad"
     ],
@@ -1542,7 +1542,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604254",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Hyderabad"
     ],
@@ -1572,7 +1572,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604255",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Hyderabad"
     ],
@@ -1602,7 +1602,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604256",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Hyderabad"
     ],
@@ -1632,7 +1632,7 @@
     "first_seen": "2026-10-29T09:10:42.406658Z",
     "id": "workday:marvell:2604257",
     "is_remote": false,
-    "last_seen": "2026-11-27",
+    "last_seen": "2026-11-28",
     "locations": [
       "Hyderabad"
     ],
@@ -1685,7 +1685,7 @@
     "first_seen": "2026-10-28T14:56:24.864120Z",
     "id": "workday:nvidia:JR2024423",
     "is_remote": false,
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-28",
     "locations": [
       "India, Bengaluru"
     ],
